@@ -1,0 +1,151 @@
+from collections import defaultdict, OrderedDict
+from itertools import izip
+
+argCounter = 0
+tableDic = OrderedDict()
+
+
+def createParameters(soupXml, resultText, omitList):
+    sdefs = soupXml.sdefs.find_all('sdef')  # sdefs: Symbol Definitions
+    definitions = defaultdict(list)
+
+    for sdef in sdefs:
+        definitionType, definitionNotation = tuple(sdef['n'].split(':'))
+        if definitionType not in omitList:
+            definitionType = definitionType.title()
+            #   definitionNotation = definitionNotation.upper()
+            if definitionNotation == '0':
+                definitionNotation = 'zero'
+            if definitionType == 'Per' and definitionNotation == 'm':
+                definitionNotation = 'ma'
+            definitions[definitionType].append(definitionNotation)
+
+    text = resultText + 'param\n'
+    for dType, dNotations in definitions.iteritems():
+        text += '\t' + dType + ' = ' + ' | '.join(dNotations) + ' ;\n'
+
+    return text, definitions
+
+
+def createTable(definitions, types, problemList, defvar, index, flag):
+
+    global argCounter
+    global tableDic
+
+    if len(types) == index:
+        argCounter += 1
+        tableDic[tuple(defvar)] = ''
+        if flag == 0:
+            return 's' + str(argCounter) + ';\n'
+        else:
+            return 's' + str(argCounter) + '\n'
+    else:
+        s = 'table {\n'
+        counter = 0     # 'counter' is used to set 'flag' variable
+        if types[index] == '_':
+            defvar.append('_')
+            s += ''.join(['\t' for i in range(0, len(defvar))])
+            s += '_' + ' => ' + createTable(definitions, types, problemList, defvar, index+1, flag=1)
+            del defvar[-1]
+        else:
+            l = len(definitions[types[index]])
+            for eachvalue in definitions[types[index]]:
+                defvar.append(eachvalue)
+                s += ''.join(['\t' for i in range(0, len(defvar))])
+                if counter == l-1:
+                    if eachvalue in problemList:
+                        s += eachvalue + ' => ' + createTable(definitions, ['Tam', '_', 'Case', 'Gen', 'Num'], problemList, defvar, index+1, flag=1)
+                    elif types[index] == 'Tam':
+                        s += eachvalue + ' => ' + createTable(definitions, ['Tam', 'Per', '_', 'Gen', 'Num'], problemList, defvar, index+1, flag=1)
+                    else:
+                        s += eachvalue + ' => ' + createTable(definitions, types, problemList, defvar, index+1, flag=1)
+                else:
+                    if eachvalue in problemList:
+                        s += eachvalue + ' => ' + createTable(definitions, ['Tam', '_', 'Case', 'Gen', 'Num'], problemList, defvar, index+1, flag=0)
+                    elif types[index] == 'Tam':
+                        s += eachvalue + ' => ' + createTable(definitions, ['Tam', 'Per', '_', 'Gen', 'Num'], problemList, defvar, index+1, flag=0)
+                    else:
+                        s += eachvalue + ' => ' + createTable(definitions, types, problemList, defvar, index+1, flag=0)
+                counter += 1
+                del defvar[-1]
+        if flag == 0:
+            s += ''.join(['\t' for i in range(0, len(defvar))])
+            s += '};\n'
+        else:
+            s += ''.join(['\t' for i in range(0, len(defvar))])
+            s += '}\n'
+    return s
+
+
+def createCoreFunctions(definitions, resultText, types, problemLists):
+    global argCounter
+    global tableDic
+    tables = list()
+    for count, (eachtype, problemList) in enumerate(izip(types, problemLists)):
+        defs = eachtype
+        table = createTable(definitions, defs, problemList, defvar=[], index=0, flag=0)
+        argumentsList = ['Str ->' for i in range(1, argCounter+1)]
+        resultVariable = ' { s : ' + ' '.join([i + ' =>' for i in defs]) + ' Str } '
+        funcDeclaration = 'mkFunc' + str(count+1) + ': ' + ' '.join(argumentsList) + resultVariable + ' = \n'
+        funcBody = '\\' + ','.join(['s'+str(i) for i in range(1, argCounter+1)]) + ' -> {\n'
+        funcBody += 's = ' + table
+        func = funcDeclaration + funcBody + '};\n'
+        tables.append(tableDic)
+        argCounter = 0
+        tableDic = OrderedDict()
+        resultText += func
+    return resultText, tables
+
+
+def getParameters(pardef, definitions, table, index):
+    if index == 1:
+        for row in pardef.find_all('e')[2:]:
+            #   print row.find('l'),row.find('r')
+            s = row.find_all('s')
+            s.reverse()
+            tmp = list()
+            for i in s:
+                tmp.append(i['n'].split(':')[1])
+            s = tmp
+            if s[0] == 'ADJ_YA_HUA' or s[0] == 'ADJ_WA_HUA':
+                argtuple = (s[0], '_', s[1], s[3], s[2])
+            else:
+                argtuple = (s[0], s[1], '_', s[3], s[2])
+            if argtuple in table:
+                table[argtuple] = row.find('l').text
+            #   else:
+                #   print 'No', argtuple
+    elif index == 0:
+        for row in pardef.find_all('e'):
+            s = row.find_all('s')
+            tmp = list()
+            for i in s[1:]:
+                tmp.append(i['n'].split(':')[1])
+            s = tmp
+            argtuple = (s[0], s[1], s[2])
+            if argtuple in table:
+                table[argtuple] = row.find('l').text
+            #   else:
+                #   print 'No', argtuple
+    return table
+
+
+def createBasicFunctions(soupXml, definitions, categories, tables, resultText):
+    for index, (category, table) in enumerate(izip(categories, tables)):
+        storePardef = list()
+        pardefs = soupXml.pardefs.find_all('pardef')
+        for eachpardef in pardefs:
+            if eachpardef['n'].split("_")[-1] in category:
+                storePardef.append(eachpardef)
+        for counter, each in enumerate(storePardef):
+            values = getParameters(each, definitions, table, index)
+            replace = each['n'].split('/')[1].split('_')[0]
+            name = each['n'].split('/')[0]
+            name += replace + '_' + each['n'].split("/")[1].split("_")[2]
+            if index == 0:
+                functionDeclaration = name + ': Str -> { s : Case => Gen => Num => Str } = \s -> case s of {\n'
+            elif index == 1:
+                functionDeclaration = name + ': Str -> { s : Tam => Per => Case => Gen => Num => Str } = \s -> case s of {\n'
+            functionBody = 'var + "' + replace + '" => mkFunc' + str(index+1) + ' ' + ' '.join(['(var+"' + v + '")' for k, v in values.iteritems()]) + '\n};\n'
+            resultText += functionDeclaration + functionBody
+    return resultText

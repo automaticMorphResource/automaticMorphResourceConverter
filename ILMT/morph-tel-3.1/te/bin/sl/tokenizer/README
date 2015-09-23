@@ -1,0 +1,62 @@
+Tokenizer of ILMT System
+
+Introduction:
+
+Tokenizer convert a sentence into word level tokens and return sentence marker for each sentence of input text.
+
+Requirements:
+
+Operating System	: LINUX/UNIX System (Newer Version Prefered)
+Compiler/Interpreter	: gcc, flex
+
+For installation on Linux, please refer to the file INSTALL.
+
+
+tokenizer
+    |
+    |----src (source code of the tokenizer)
+    |
+    |----bin (executables of tokenizer)
+    |
+    |----tests (contains the referenece input and output)
+    |
+    |----doc (documentaion files of the tokenizer)
+    |
+    |----tokenizer_run.sh (This shell file is used to run tokenizer)
+    |
+    |----tokenizer.sh (This shell file is used to include in spec file of tokenizer )
+    |
+    |----tokenizer.spec (This shell file is used to run tokenizer with dashboard command)
+    |
+    |----INSTALL (This file is used to build and install the tokenizer)
+    |
+    |----README
+
+
+How to use:
+
+After building tokennizer,you can use the tokenizer as follows:
+
+1-Run:
+
+    Run tokenizer from command prompt as with following command
+    $sh tokenizer_run.sh  tests/tokenizer.rin 
+    where tokenizer.rin is the text input file which need to be tokenized
+
+2) Output:
+
+    2.1) The output can be get through standard output if above run command is done as follows
+    $sh tokenizer.sh  tests/tokenizer.rin
+
+    2.2) The output can be get in a  file if above run command is done as follows
+    $sh tokenizer.sh  tests/tokenizer.rin > tokenizer.rout
+    where tokenizer.rin will have tokenized form of tokenizer.rout file 
+
+
+Authors:
+Mr. Rohit Gupta
+Langauage Technology Research Center
+IIIT, Gachibowli, Hyderabad-500032.
+rohit@research.iiit.ac.in
+
+

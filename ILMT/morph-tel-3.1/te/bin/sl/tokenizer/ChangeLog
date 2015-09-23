@@ -1,0 +1,25 @@
+23-10-2008	Rohit Gupta <rohit@research.iiit.ac.in>
+
+	* Version .9922
+
+	1. The modification is made as per the request made in Transfer
+	   Grammar Workshop, IIIT-H from  morph module developers.
+	   This version of  tokenizer will identify the  following character as
+	   a sentence Marker | replace them by symbol  .   as sentence end marker.
+
+	2. Occurrence of colon : symbol before and after number will be treat as
+	   a single Token. eg: 12:20  or 1:2
+
+11-09-2008	 Rohit Gupta <rohit@research.iiit.ac.in>
+
+	* Version-0.9921
+
+	1. This version of  tokenizer will identify the  following character as a
+	   single tokenu 'ਚ      'ਚੋਂ    'ਤੇ
+	2. 
+
+11-09-2008	 Rohit Gupta <rohit@research.iiit.ac.in>
+
+	* Version-0.992
+
+	1. 

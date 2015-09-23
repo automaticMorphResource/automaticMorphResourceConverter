@@ -1,0 +1,2367 @@
+s d m s : --
+s d m p : --
+s d f s : GAsa
+s d f p : GAsa
+s o m s : --
+s o m p : --
+s o f s : GAsa
+s o f p : GAsa
+
+ s d m s : --
+s d m p : --
+s d f s : GAsa
+s d f p : GAsa
+s o m s : --
+s o m p : --
+s o f s : GAsa
+s o f p : GAsa
+
+ s d m s : --
+s d m p : --
+s d f s : GAsa
+s d f p : GAsa
+s o m s : --
+s o m p : --
+s o f s : GAsa
+s o f p : GAsa
+
+ s d m s : --
+s d m p : --
+s d f s : GAsa
+s d f p : GAsa
+s o m s : --
+s o m p : --
+s o f s : GAsa
+s o f p : GAsa
+
+ s d m s : bIja
+s d m p : bIja
+s d f s : --
+s d f p : --
+s o m s : bIja
+s o m p : bIjoM
+s o f s : --
+s o f p : --
+
+ s d m s : bIja
+s d m p : bIja
+s d f s : --
+s d f p : --
+s o m s : bIja
+s o m p : bIjoM
+s o f s : --
+s o f p : --
+
+ s d m s : bIja
+s d m p : bIja
+s d f s : --
+s d f p : --
+s o m s : bIja
+s o m p : bIjoM
+s o f s : --
+s o f p : --
+
+ s d m s : XUla
+s d m p : XUla
+s d f s : --
+s d f p : --
+s o m s : XUla
+s o m p : XUla
+s o f s : --
+s o f p : --
+
+ s d m s : XUla
+s d m p : XUla
+s d f s : --
+s d f p : --
+s o m s : XUla
+s o m p : XUla
+s o f s : --
+s o f p : --
+
+ s d m s : XUla
+s d m p : XUla
+s d f s : --
+s d f p : --
+s o m s : XUla
+s o m p : XUla
+s o f s : --
+s o f p : --
+
+ s d m s : XUla
+s d m p : XUla
+s d f s : --
+s d f p : --
+s o m s : XUla
+s o m p : XUla
+s o f s : --
+s o f p : --
+
+ s d m s : paMKa
+s d m p : paMKa
+s d f s : --
+s d f p : --
+s o m s : paMKa
+s o m p : paMKoM
+s o f s : --
+s o f p : --
+
+ s d m s : paMKa
+s d m p : paMKa
+s d f s : --
+s d f p : --
+s o m s : paMKa
+s o m p : paMKoM
+s o f s : --
+s o f p : --
+
+ s d m s : paMKa
+s d m p : paMKa
+s d f s : --
+s d f p : --
+s o m s : paMKa
+s o m p : paMKoM
+s o f s : --
+s o f p : --
+
+ s d m s : bAxala
+s d m p : bAxala
+s d f s : --
+s d f p : --
+s o m s : bAxala
+s o m p : bAxaloM
+s o f s : --
+s o f p : --
+
+ s d m s : bAxala
+s d m p : bAxala
+s d f s : --
+s d f p : --
+s o m s : bAxala
+s o m p : bAxaloM
+s o f s : --
+s o f p : --
+
+ s d m s : bAxala
+s d m p : bAxala
+s d f s : --
+s d f p : --
+s o m s : bAxala
+s o m p : bAxaloM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : bahana
+s d f p : bahaneM
+s o m s : --
+s o m p : --
+s o f s : bahana
+s o f p : bahanoM
+
+ s d m s : --
+s d m p : --
+s d f s : bahana
+s d f p : bahaneM
+s o m s : --
+s o m p : --
+s o f s : bahana
+s o f p : bahanoM
+
+ s d m s : --
+s d m p : --
+s d f s : garxana
+s d f p : garxaneM
+s o m s : --
+s o m p : --
+s o f s : garxana
+s o f p : garxanoM
+
+ s d m s : --
+s d m p : --
+s d f s : garxana
+s d f p : garxaneM
+s o m s : --
+s o m p : --
+s o f s : garxana
+s o f p : garxanoM
+
+ s d m s : xoswa
+s d m p : xoswa
+s d f s : --
+s d f p : --
+s o m s : xoswa
+s o m p : xoswoM
+s o f s : --
+s o f p : --
+
+ s d m s : xoswa
+s d m p : xoswa
+s d f s : --
+s d f p : --
+s o m s : xoswa
+s o m p : xoswoM
+s o f s : --
+s o f p : --
+
+ s d m s : xoswa
+s d m p : xoswa
+s d f s : --
+s d f p : --
+s o m s : xoswa
+s o m p : xoswoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : rAwa
+s d f p : rAweM
+s o m s : --
+s o m p : --
+s o f s : rAwa
+s o f p : rAwoM
+
+ s d m s : --
+s d m p : --
+s d f s : rAwa
+s d f p : rAweM
+s o m s : --
+s o m p : --
+s o f s : rAwa
+s o f p : rAwoM
+
+ s d m s : --
+s d m p : --
+s d f s : rAwa
+s d f p : rAweM
+s o m s : --
+s o m p : --
+s o f s : rAwa
+s o f p : rAwoM
+
+ s d m s : --
+s d m p : --
+s d f s : rAwa
+s d f p : rAweM
+s o m s : --
+s o m p : --
+s o f s : rAwa
+s o f p : rAwoM
+
+ s d m s : --
+s d m p : --
+s d f s : wArA
+s d f p : wArAz
+s o m s : --
+s o m p : --
+s o f s : wArA
+s o f p : wAroM
+
+ s d m s : --
+s d m p : --
+s d f s : wArA
+s d f p : wArAz
+s o m s : --
+s o m p : --
+s o f s : wArA
+s o f p : wAroM
+
+ s d m s : nAma
+s d m p : nAma
+s d f s : --
+s d f p : --
+s o m s : nAma
+s o m p : nAmoM
+s o f s : --
+s o f p : --
+
+ s d m s : nAma
+s d m p : nAma
+s d f s : --
+s d f p : --
+s o m s : nAma
+s o m p : nAmoM
+s o f s : --
+s o f p : --
+
+ s d m s : nAma
+s d m p : nAma
+s d f s : --
+s d f p : --
+s o m s : nAma
+s o m p : nAmoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : XuMXa
+s d f p : XuMXa
+s o m s : --
+s o m p : --
+s o f s : XuMXa
+s o f p : XuMXa
+
+ s d m s : --
+s d m p : --
+s d f s : XuMXa
+s d f p : XuMXa
+s o m s : --
+s o m p : --
+s o f s : XuMXa
+s o f p : XuMXa
+
+ s d m s : --
+s d m p : --
+s d f s : XuMXa
+s d f p : XuMXa
+s o m s : --
+s o m p : --
+s o f s : XuMXa
+s o f p : XuMXa
+
+ s d m s : --
+s d m p : --
+s d f s : XuMXa
+s d f p : XuMXa
+s o m s : --
+s o m p : --
+s o f s : XuMXa
+s o f p : XuMXa
+
+ s d m s : --
+s d m p : --
+s d f s : rotI
+s d f p : rotiyAz
+s o m s : --
+s o m p : --
+s o f s : rotI
+s o f p : rotiyoM
+
+ s d m s : --
+s d m p : --
+s d f s : rotI
+s d f p : rotiyAz
+s o m s : --
+s o m p : --
+s o f s : rotI
+s o f p : rotiyoM
+
+ s d m s : sonA
+s d m p : sone
+s d f s : --
+s d f p : --
+s o m s : sone
+s o m p : sone
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : kursI
+s d f p : kursiyAz
+s o m s : --
+s o m p : --
+s o f s : kursI
+s o f p : kursiyoM
+
+ s d m s : --
+s d m p : --
+s d f s : kursI
+s d f p : kursiyAz
+s o m s : --
+s o m p : --
+s o f s : kursI
+s o f p : kursiyoM
+
+ s d m s : gIwa
+s d m p : gIwa
+s d f s : --
+s d f p : --
+s o m s : gIwa
+s o m p : gIwoM
+s o f s : --
+s o f p : --
+
+ s d m s : gIwa
+s d m p : gIwa
+s d f s : --
+s d f p : --
+s o m s : gIwa
+s o m p : gIwoM
+s o f s : --
+s o f p : --
+
+ s d m s : gIwa
+s d m p : gIwa
+s d f s : --
+s d f p : --
+s o m s : gIwa
+s o m p : gIwoM
+s o f s : --
+s o f p : --
+
+ s d m s : sUraja
+s d m p : sUraja
+s d f s : --
+s d f p : --
+s o m s : sUraja
+s o m p : sUraja
+s o f s : --
+s o f p : --
+
+ s d m s : sUraja
+s d m p : sUraja
+s d f s : --
+s d f p : --
+s o m s : sUraja
+s o m p : sUraja
+s o f s : --
+s o f p : --
+
+ s d m s : sUraja
+s d m p : sUraja
+s d f s : --
+s d f p : --
+s o m s : sUraja
+s o m p : sUraja
+s o f s : --
+s o f p : --
+
+ s d m s : sUraja
+s d m p : sUraja
+s d f s : --
+s d f p : --
+s o m s : sUraja
+s o m p : sUraja
+s o f s : --
+s o f p : --
+
+ s d m s : Gara
+s d m p : Gara
+s d f s : --
+s d f p : --
+s o m s : Gara
+s o m p : GaroM
+s o f s : --
+s o f p : --
+
+ s d m s : Gara
+s d m p : Gara
+s d f s : --
+s d f p : --
+s o m s : Gara
+s o m p : GaroM
+s o f s : --
+s o f p : --
+
+ s d m s : Gara
+s d m p : Gara
+s d f s : --
+s d f p : --
+s o m s : Gara
+s o m p : GaroM
+s o f s : --
+s o f p : --
+
+ s d m s : Gara
+s d m p : Gara
+s d f s : --
+s d f p : --
+s o m s : Gara
+s o m p : GaroM
+s o f s : --
+s o f p : --
+
+ s d m s : Gara
+s d m p : Gara
+s d f s : --
+s d f p : --
+s o m s : Gara
+s o m p : GaroM
+s o f s : --
+s o f p : --
+
+ s d m s : Gara
+s d m p : Gara
+s d f s : --
+s d f p : --
+s o m s : Gara
+s o m p : GaroM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : kAra
+s d f p : kAreM
+s o m s : --
+s o m p : --
+s o f s : kAra
+s o f p : kAroM
+
+ s d m s : --
+s d m p : --
+s d f s : kAra
+s d f p : kAreM
+s o m s : --
+s o m p : --
+s o f s : kAra
+s o f p : kAroM
+
+ s d m s : --
+s d m p : --
+s d f s : vajaha
+s d f p : vajaheM
+s o m s : --
+s o m p : --
+s o f s : vajaha
+s o f p : vajahoM
+
+ s d m s : --
+s d m p : --
+s d f s : vajaha
+s d f p : vajaheM
+s o m s : --
+s o m p : --
+s o f s : vajaha
+s o f p : vajahoM
+
+ s d m s : --
+s d m p : --
+s d f s : CAwI
+s d f p : CAwiyAz
+s o m s : --
+s o m p : --
+s o f s : CAwI
+s o f p : CAwiyoM
+
+ s d m s : --
+s d m p : --
+s d f s : CAwI
+s d f p : CAwiyAz
+s o m s : --
+s o m p : --
+s o f s : CAwI
+s o f p : CAwiyoM
+
+ s d m s : makKana
+s d m p : makKana
+s d f s : --
+s d f p : --
+s o m s : makKana
+s o m p : makKana
+s o f s : --
+s o f p : --
+
+ s d m s : makKana
+s d m p : makKana
+s d f s : --
+s d f p : --
+s o m s : makKana
+s o m p : makKana
+s o f s : --
+s o f p : --
+
+ s d m s : makKana
+s d m p : makKana
+s d f s : --
+s d f p : --
+s o m s : makKana
+s o m p : makKana
+s o f s : --
+s o f p : --
+
+ s d m s : makKana
+s d m p : makKana
+s d f s : --
+s d f p : --
+s o m s : makKana
+s o m p : makKana
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : gAya
+s d f p : gAyeM
+s o m s : --
+s o m p : --
+s o f s : gAya
+s o f p : gAyoM
+
+ s d m s : --
+s d m p : --
+s d f s : gAya
+s d f p : gAyeM
+s o m s : --
+s o m p : --
+s o f s : gAya
+s o f p : gAyoM
+
+ s d m s : --
+s d m p : --
+s d f s : rAKa
+s d f p : rAKa
+s o m s : --
+s o m p : --
+s o f s : rAKa
+s o f p : rAKa
+
+ s d m s : --
+s d m p : --
+s d f s : rAKa
+s d f p : rAKa
+s o m s : --
+s o m p : --
+s o f s : rAKa
+s o f p : rAKa
+
+ s d m s : --
+s d m p : --
+s d f s : rAKa
+s d f p : rAKa
+s o m s : --
+s o m p : --
+s o f s : rAKa
+s o f p : rAKa
+
+ s d m s : --
+s d m p : --
+s d f s : rAKa
+s d f p : rAKa
+s o m s : --
+s o m p : --
+s o f s : rAKa
+s o f p : rAKa
+
+ s d m s : mAlika
+s d m p : mAlika
+s d f s : --
+s d f p : --
+s o m s : mAlika
+s o m p : mAlikoM
+s o f s : --
+s o f p : --
+
+ s d m s : mAlika
+s d m p : mAlika
+s d f s : --
+s d f p : --
+s o m s : mAlika
+s o m p : mAlikoM
+s o f s : --
+s o f p : --
+
+ s d m s : mAlika
+s d m p : mAlika
+s d f s : --
+s d f p : --
+s o m s : mAlika
+s o m p : mAlikoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : bAriSa
+s d f p : bAriSa
+s o m s : --
+s o m p : --
+s o f s : bAriSa
+s o f p : bAriSa
+
+ s d m s : --
+s d m p : --
+s d f s : bAriSa
+s d f p : bAriSa
+s o m s : --
+s o m p : --
+s o f s : bAriSa
+s o f p : bAriSa
+
+ s d m s : --
+s d m p : --
+s d f s : bAriSa
+s d f p : bAriSa
+s o m s : --
+s o m p : --
+s o f s : bAriSa
+s o f p : bAriSa
+
+ s d m s : --
+s d m p : --
+s d f s : bAriSa
+s d f p : bAriSa
+s o m s : --
+s o m p : --
+s o f s : bAriSa
+s o f p : bAriSa
+
+ s d m s : --
+s d m p : --
+s d f s : kiwAba
+s d f p : kiwAbeM
+s o m s : --
+s o m p : --
+s o f s : kiwAba
+s o f p : kiwAboM
+
+ s d m s : --
+s d m p : --
+s d f s : kiwAba
+s d f p : kiwAbeM
+s o m s : --
+s o m p : --
+s o f s : kiwAba
+s o f p : kiwAboM
+
+ s d m s : xuSmana
+s d m p : xuSmana
+s d f s : --
+s d f p : --
+s o m s : xuSmana
+s o m p : xuSmanoM
+s o f s : --
+s o f p : --
+
+ s d m s : xuSmana
+s d m p : xuSmana
+s d f s : --
+s d f p : --
+s o m s : xuSmana
+s o m p : xuSmanoM
+s o f s : --
+s o f p : --
+
+ s d m s : xuSmana
+s d m p : xuSmana
+s d f s : --
+s d f p : --
+s o m s : xuSmana
+s o m p : xuSmanoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : rassI
+s d f p : rassiyAz
+s o m s : --
+s o m p : --
+s o f s : rassI
+s o f p : rassiyoM
+
+ s d m s : --
+s d m p : --
+s d f s : rassI
+s d f p : rassiyAz
+s o m s : --
+s o m p : --
+s o f s : rassI
+s o f p : rassiyoM
+
+ s d m s : pawWara
+s d m p : pawWara
+s d f s : --
+s d f p : --
+s o m s : pawWara
+s o m p : pawWaroM
+s o f s : --
+s o f p : --
+
+ s d m s : pawWara
+s d m p : pawWara
+s d f s : --
+s d f p : --
+s o m s : pawWara
+s o m p : pawWaroM
+s o f s : --
+s o f p : --
+
+ s d m s : pawWara
+s d m p : pawWara
+s d f s : --
+s d f p : --
+s o m s : pawWara
+s o m p : pawWaroM
+s o f s : --
+s o f p : --
+
+ s d m s : xina
+s d m p : xina
+s d f s : --
+s d f p : --
+s o m s : xina
+s o m p : xinoM
+s o f s : --
+s o f p : --
+
+ s d m s : xina
+s d m p : xina
+s d f s : --
+s d f p : --
+s o m s : xina
+s o m p : xinoM
+s o f s : --
+s o f p : --
+
+ s d m s : xina
+s d m p : xina
+s d f s : --
+s d f p : --
+s o m s : xina
+s o m p : xinoM
+s o f s : --
+s o f p : --
+
+ s d m s : samaMxara
+s d m p : samaMxara
+s d f s : --
+s d f p : --
+s o m s : samaMxara
+s o m p : samaMxara
+s o f s : --
+s o f p : --
+
+ s d m s : samaMxara
+s d m p : samaMxara
+s d f s : --
+s d f p : --
+s o m s : samaMxara
+s o m p : samaMxara
+s o f s : --
+s o f p : --
+
+ s d m s : samaMxara
+s d m p : samaMxara
+s d f s : --
+s d f p : --
+s o m s : samaMxara
+s o m p : samaMxara
+s o f s : --
+s o f p : --
+
+ s d m s : samaMxara
+s d m p : samaMxara
+s d f s : --
+s d f p : --
+s o m s : samaMxara
+s o m p : samaMxara
+s o f s : --
+s o f p : --
+
+ s d m s : nAKUna
+s d m p : nAKUna
+s d f s : --
+s d f p : --
+s o m s : nAKUna
+s o m p : nAKUnoM
+s o f s : --
+s o f p : --
+
+ s d m s : nAKUna
+s d m p : nAKUna
+s d f s : --
+s d f p : --
+s o m s : nAKUna
+s o m p : nAKUnoM
+s o f s : --
+s o f p : --
+
+ s d m s : nAKUna
+s d m p : nAKUna
+s d f s : --
+s d f p : --
+s o m s : nAKUna
+s o m p : nAKUnoM
+s o f s : --
+s o f p : --
+
+ s d m s : panIra
+s d m p : panIra
+s d f s : --
+s d f p : --
+s o m s : panIra
+s o m p : panIra
+s o f s : --
+s o f p : --
+
+ s d m s : panIra
+s d m p : panIra
+s d f s : --
+s d f p : --
+s o m s : panIra
+s o m p : panIra
+s o f s : --
+s o f p : --
+
+ s d m s : panIra
+s d m p : panIra
+s d f s : --
+s d f p : --
+s o m s : panIra
+s o m p : panIra
+s o f s : --
+s o f p : --
+
+ s d m s : panIra
+s d m p : panIra
+s d f s : --
+s d f p : --
+s o m s : panIra
+s o m p : panIra
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : Cawa
+s d f p : CaweM
+s o m s : --
+s o m p : --
+s o f s : Cawa
+s o f p : CawoM
+
+ s d m s : --
+s d m p : --
+s d f s : Cawa
+s d f p : CaweM
+s o m s : --
+s o m p : --
+s o f s : Cawa
+s o f p : CawoM
+
+ s d m s : sAla
+s d m p : sAla
+s d f s : --
+s d f p : --
+s o m s : sAla
+s o m p : sAloM
+s o f s : --
+s o f p : --
+
+ s d m s : sAla
+s d m p : sAla
+s d f s : --
+s d f p : --
+s o m s : sAla
+s o m p : sAloM
+s o f s : --
+s o f p : --
+
+ s d m s : sAla
+s d m p : sAla
+s d f s : --
+s d f p : --
+s o m s : sAla
+s o m p : sAloM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : rAnI
+s d f p : rAniyAz
+s o m s : --
+s o m p : --
+s o f s : rAnI
+s o f p : rAniyoM
+
+ s d m s : --
+s d m p : --
+s d f s : rAnI
+s d f p : rAniyAz
+s o m s : --
+s o m p : --
+s o f s : rAnI
+s o f p : rAniyoM
+
+ s d m s : --
+s d m p : --
+s d f s : Aga
+s d f p : Aga
+s o m s : --
+s o m p : --
+s o f s : Aga
+s o f p : Aga
+
+ s d m s : --
+s d m p : --
+s d f s : Aga
+s d f p : Aga
+s o m s : --
+s o m p : --
+s o f s : Aga
+s o f p : Aga
+
+ s d m s : --
+s d m p : --
+s d f s : Aga
+s d f p : Aga
+s o m s : --
+s o m p : --
+s o f s : Aga
+s o f p : Aga
+
+ s d m s : --
+s d m p : --
+s d f s : Aga
+s d f p : Aga
+s o m s : --
+s o m p : --
+s o f s : Aga
+s o f p : Aga
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : pAnI
+s d m p : pAnI
+s d f s : --
+s d f p : --
+s o m s : pAnI
+s o m p : pAnI
+s o f s : --
+s o f p : --
+
+ s d m s : PUla
+s d m p : PUla
+s d f s : --
+s d f p : --
+s o m s : PUla
+s o m p : PUloM
+s o f s : --
+s o f p : --
+
+ s d m s : PUla
+s d m p : PUla
+s d f s : --
+s d f p : --
+s o m s : PUla
+s o m p : PUloM
+s o f s : --
+s o f p : --
+
+ s d m s : PUla
+s d m p : PUla
+s d f s : --
+s d f p : --
+s o m s : PUla
+s o m p : PUloM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : Orawa
+s d f p : OraweM
+s o m s : --
+s o m p : --
+s o f s : Orawa
+s o f p : OrawoM
+
+ s d m s : --
+s d m p : --
+s d f s : Orawa
+s d f p : OraweM
+s o m s : --
+s o m p : --
+s o f s : Orawa
+s o f p : OrawoM
+
+ s d m s : bAla
+s d m p : bAla
+s d f s : --
+s d f p : --
+s o m s : bAla
+s o m p : bAloM
+s o f s : --
+s o f p : --
+
+ s d m s : bAla
+s d m p : bAla
+s d f s : --
+s d f p : --
+s o m s : bAla
+s o m p : bAloM
+s o f s : --
+s o f p : --
+
+ s d m s : bAla
+s d m p : bAla
+s d f s : --
+s d f p : --
+s o m s : bAla
+s o m p : bAloM
+s o f s : --
+s o f p : --
+
+ s d m s : uswAxa
+s d m p : uswAxa
+s d f s : --
+s d f p : --
+s o m s : uswAxa
+s o m p : uswAxoM
+s o f s : --
+s o f p : --
+
+ s d m s : uswAxa
+s d m p : uswAxa
+s d f s : --
+s d f p : --
+s o m s : uswAxa
+s o m p : uswAxoM
+s o f s : --
+s o f p : --
+
+ s d m s : uswAxa
+s d m p : uswAxa
+s d f s : --
+s d f p : --
+s o m s : uswAxa
+s o m p : uswAxoM
+s o f s : --
+s o f p : --
+
+ s d m s : Pala
+s d m p : Pala
+s d f s : --
+s d f p : --
+s o m s : Pala
+s o m p : PaloM
+s o f s : --
+s o f p : --
+
+ s d m s : Pala
+s d m p : Pala
+s d f s : --
+s d f p : --
+s o m s : Pala
+s o m p : PaloM
+s o f s : --
+s o f p : --
+
+ s d m s : Pala
+s d m p : Pala
+s d f s : --
+s d f p : --
+s o m s : Pala
+s o m p : PaloM
+s o f s : --
+s o f p : --
+
+ s d m s : jAnavara
+s d m p : jAnavara
+s d f s : --
+s d f p : --
+s o m s : jAnavara
+s o m p : jAnavaroM
+s o f s : --
+s o f p : --
+
+ s d m s : jAnavara
+s d m p : jAnavara
+s d f s : --
+s d f p : --
+s o m s : jAnavara
+s o m p : jAnavaroM
+s o f s : --
+s o f p : --
+
+ s d m s : jAnavara
+s d m p : jAnavara
+s d f s : --
+s d f p : --
+s o m s : jAnavara
+s o m p : jAnavaroM
+s o f s : --
+s o f p : --
+
+ s d m s : sira
+s d m p : sira
+s d f s : --
+s d f p : --
+s o m s : sira
+s o m p : siroM
+s o f s : --
+s o f p : --
+
+ s d m s : sira
+s d m p : sira
+s d f s : --
+s d f p : --
+s o m s : sira
+s o m p : siroM
+s o f s : --
+s o f p : --
+
+ s d m s : sira
+s d m p : sira
+s d f s : --
+s d f p : --
+s o m s : sira
+s o m p : siroM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : xuma
+s d f p : xumeM
+s o m s : --
+s o m p : --
+s o f s : xuma
+s o f p : xumoM
+
+ s d m s : --
+s d m p : --
+s d f s : xuma
+s d f p : xumeM
+s o m s : --
+s o m p : --
+s o f s : xuma
+s o f p : xumoM
+
+ s d m s : --
+s d m p : --
+s d f s : JIla
+s d f p : JIleM
+s o m s : --
+s o m p : --
+s o f s : JIla
+s o f p : JIloM
+
+ s d m s : --
+s d m p : --
+s d f s : JIla
+s d f p : JIleM
+s o m s : --
+s o m p : --
+s o f s : JIla
+s o f p : JIloM
+
+ s d m s : seba
+s d m p : seba
+s d f s : --
+s d f p : --
+s o m s : seba
+s o m p : seboM
+s o f s : --
+s o f p : --
+
+ s d m s : seba
+s d m p : seba
+s d f s : --
+s d f p : --
+s o m s : seba
+s o m p : seboM
+s o f s : --
+s o f p : --
+
+ s d m s : seba
+s d m p : seba
+s d f s : --
+s d f p : --
+s o m s : seba
+s o m p : seboM
+s o f s : --
+s o f p : --
+
+ s d m s : xila
+s d m p : xila
+s d f s : --
+s d f p : --
+s o m s : xila
+s o m p : xiloM
+s o f s : --
+s o f p : --
+
+ s d m s : xila
+s d m p : xila
+s d f s : --
+s d f p : --
+s o m s : xila
+s o m p : xiloM
+s o f s : --
+s o f p : --
+
+ s d m s : xila
+s d m p : xila
+s d f s : --
+s d f p : --
+s o m s : xila
+s o m p : xiloM
+s o f s : --
+s o f p : --
+
+ s d m s : pyAra
+s d m p : pyAra
+s d f s : --
+s d f p : --
+s o m s : pyAra
+s o m p : pyAra
+s o f s : --
+s o f p : --
+
+ s d m s : pyAra
+s d m p : pyAra
+s d f s : --
+s d f p : --
+s o m s : pyAra
+s o m p : pyAra
+s o f s : --
+s o f p : --
+
+ s d m s : pyAra
+s d m p : pyAra
+s d f s : --
+s d f p : --
+s o m s : pyAra
+s o m p : pyAra
+s o f s : --
+s o f p : --
+
+ s d m s : pyAra
+s d m p : pyAra
+s d f s : --
+s d f p : --
+s o m s : pyAra
+s o m p : pyAra
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : pITa
+s d f p : pITeM
+s o m s : --
+s o m p : --
+s o f s : pITa
+s o f p : pIToM
+
+ s d m s : --
+s d m p : --
+s d f s : pITa
+s d f p : pITeM
+s o m s : --
+s o m p : --
+s o f s : pITa
+s o f p : pIToM
+
+ s d m s : cirAga
+s d m p : cirAga
+s d f s : --
+s d f p : --
+s o m s : cirAga
+s o m p : cirAgoM
+s o f s : --
+s o f p : --
+
+ s d m s : cirAga
+s d m p : cirAga
+s d f s : --
+s d f p : --
+s o m s : cirAga
+s o m p : cirAgoM
+s o f s : --
+s o f p : --
+
+ s d m s : cirAga
+s d m p : cirAga
+s d f s : --
+s d f p : --
+s o m s : cirAga
+s o m p : cirAgoM
+s o f s : --
+s o f p : --
+
+ s d m s : wela
+s d m p : wela
+s d f s : --
+s d f p : --
+s o m s : wela
+s o m p : weloM
+s o f s : --
+s o f p : --
+
+ s d m s : wela
+s d m p : wela
+s d f s : --
+s d f p : --
+s o m s : wela
+s o m p : weloM
+s o f s : --
+s o f p : --
+
+ s d m s : wela
+s d m p : wela
+s d f s : --
+s d f p : --
+s o m s : wela
+s o m p : weloM
+s o f s : --
+s o f p : --
+
+ s d m s : amana
+s d m p : amana
+s d f s : --
+s d f p : --
+s o m s : amana
+s o m p : amana
+s o f s : --
+s o f p : --
+
+ s d m s : amana
+s d m p : amana
+s d f s : --
+s d f p : --
+s o m s : amana
+s o m p : amana
+s o f s : --
+s o f p : --
+
+ s d m s : amana
+s d m p : amana
+s d f s : --
+s d f p : --
+s o m s : amana
+s o m p : amana
+s o f s : --
+s o f p : --
+
+ s d m s : amana
+s d m p : amana
+s d f s : --
+s d f p : --
+s o m s : amana
+s o m p : amana
+s o f s : --
+s o f p : --
+
+ s d m s : kota
+s d m p : kota
+s d f s : --
+s d f p : --
+s o m s : kota
+s o m p : kotoM
+s o f s : --
+s o f p : --
+
+ s d m s : kota
+s d m p : kota
+s d f s : --
+s d f p : --
+s o m s : kota
+s o m p : kotoM
+s o f s : --
+s o f p : --
+
+ s d m s : kota
+s d m p : kota
+s d f s : --
+s d f p : --
+s o m s : kota
+s o m p : kotoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : nAva
+s d f p : nAveM
+s o m s : --
+s o m p : --
+s o f s : nAva
+s o f p : nAvoM
+
+ s d m s : --
+s d m p : --
+s d f s : nAva
+s d f p : nAveM
+s o m s : --
+s o m p : --
+s o f s : nAva
+s o f p : nAvoM
+
+ s d m s : namaka
+s d m p : namaka
+s d f s : --
+s d f p : --
+s o m s : namaka
+s o m p : namaka
+s o f s : --
+s o f p : --
+
+ s d m s : namaka
+s d m p : namaka
+s d f s : --
+s d f p : --
+s o m s : namaka
+s o m p : namaka
+s o f s : --
+s o f p : --
+
+ s d m s : namaka
+s d m p : namaka
+s d f s : --
+s d f p : --
+s o m s : namaka
+s o m p : namaka
+s o f s : --
+s o f p : --
+
+ s d m s : namaka
+s d m p : namaka
+s d f s : --
+s d f p : --
+s o m s : namaka
+s o m p : namaka
+s o f s : --
+s o f p : --
+
+ s d m s : kAna
+s d m p : kAna
+s d f s : --
+s d f p : --
+s o m s : kAna
+s o m p : kAnoM
+s o f s : --
+s o f p : --
+
+ s d m s : kAna
+s d m p : kAna
+s d f s : --
+s d f p : --
+s o m s : kAna
+s o m p : kAnoM
+s o f s : --
+s o f p : --
+
+ s d m s : kAna
+s d m p : kAna
+s d f s : --
+s d f p : --
+s o m s : kAna
+s o m p : kAnoM
+s o f s : --
+s o f p : --
+
+ s d m s : pawi
+s d m p : pawi
+s d f s : --
+s d f p : --
+s o m s : pawi
+s o m p : pawiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : pawi
+s d m p : pawi
+s d f s : --
+s d f p : --
+s o m s : pawi
+s o m p : pawiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : pawi
+s d m p : pawi
+s d f s : --
+s d f p : --
+s o m s : pawi
+s o m p : pawiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : pujArI
+s d m p : pujArI
+s d f s : --
+s d f p : --
+s o m s : pujArI
+s o m p : pujAriyoM
+s o f s : --
+s o f p : --
+
+ s d m s : pujArI
+s d m p : pujArI
+s d f s : --
+s d f p : --
+s o m s : pujArI
+s o m p : pujAriyoM
+s o f s : --
+s o f p : --
+
+ s d m s : pujArI
+s d m p : pujArI
+s d f s : --
+s d f p : --
+s o m s : pujArI
+s o m p : pujAriyoM
+s o f s : --
+s o f p : --
+
+ s d m s : hAWa
+s d m p : hAWa
+s d f s : --
+s d f p : --
+s o m s : hAWa
+s o m p : hAWoM
+s o f s : --
+s o f p : --
+
+ s d m s : hAWa
+s d m p : hAWa
+s d f s : --
+s d f p : --
+s o m s : hAWa
+s o m p : hAWoM
+s o f s : --
+s o f p : --
+
+ s d m s : hAWa
+s d m p : hAWa
+s d f s : --
+s d f p : --
+s o m s : hAWa
+s o m p : hAWoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : xUkAna
+s d f p : xUkAneM
+s o m s : --
+s o m p : --
+s o f s : xUkAna
+s o f p : xUkAnoM
+
+ s d m s : --
+s d m p : --
+s d f s : xUkAna
+s d f p : xUkAneM
+s o m s : --
+s o m p : --
+s o f s : xUkAna
+s o f p : xUkAnoM
+
+ s d m s : xUXa
+s d m p : xUXa
+s d f s : --
+s d f p : --
+s o m s : xUXa
+s o m p : xUXa
+s o f s : --
+s o f p : --
+
+ s d m s : xUXa
+s d m p : xUXa
+s d f s : --
+s d f p : --
+s o m s : xUXa
+s o m p : xUXa
+s o f s : --
+s o f p : --
+
+ s d m s : xUXa
+s d m p : xUXa
+s d f s : --
+s d f p : --
+s o m s : xUXa
+s o m p : xUXa
+s o f s : --
+s o f p : --
+
+ s d m s : xUXa
+s d m p : xUXa
+s d f s : --
+s d f p : --
+s o m s : xUXa
+s o m p : xUXa
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : SarAba
+s d f p : SarAbeM
+s o m s : --
+s o m p : --
+s o f s : SarAba
+s o f p : SarAboM
+
+ s d m s : --
+s d m p : --
+s d f s : SarAba
+s d f p : SarAbeM
+s o m s : --
+s o m p : --
+s o f s : SarAba
+s o f p : SarAboM
+
+ s d m s : mAMsa
+s d m p : mAMsa
+s d f s : --
+s d f p : --
+s o m s : mAMsa
+s o m p : mAMsa
+s o f s : --
+s o f p : --
+
+ s d m s : mAMsa
+s d m p : mAMsa
+s d f s : --
+s d f p : --
+s o m s : mAMsa
+s o m p : mAMsa
+s o f s : --
+s o f p : --
+
+ s d m s : mAMsa
+s d m p : mAMsa
+s d f s : --
+s d f p : --
+s o m s : mAMsa
+s o m p : mAMsa
+s o f s : --
+s o f p : --
+
+ s d m s : mAMsa
+s d m p : mAMsa
+s d f s : --
+s d f p : --
+s o m s : mAMsa
+s o m p : mAMsa
+s o f s : --
+s o f p : --
+
+ s d m s : bEMka
+s d m p : bEMka
+s d f s : --
+s d f p : --
+s o m s : bEMka
+s o m p : bEMkoM
+s o f s : --
+s o f p : --
+
+ s d m s : bEMka
+s d m p : bEMka
+s d f s : --
+s d f p : --
+s o m s : bEMka
+s o m p : bEMkoM
+s o f s : --
+s o f p : --
+
+ s d m s : bEMka
+s d m p : bEMka
+s d f s : --
+s d f p : --
+s o m s : bEMka
+s o m p : bEMkoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : havA
+s d f p : havAez
+s o m s : --
+s o m p : --
+s o f s : havA
+s o f p : havAoM
+
+ s d m s : --
+s d m p : --
+s d f s : havA
+s d f p : havAez
+s o m s : --
+s o m p : --
+s o f s : havA
+s o f p : havAoM
+
+ s d m s : AsamAna
+s d m p : AsamAna
+s d f s : --
+s d f p : --
+s o m s : AsamAna
+s o m p : AsamAna
+s o f s : --
+s o f p : --
+
+ s d m s : AsamAna
+s d m p : AsamAna
+s d f s : --
+s d f p : --
+s o m s : AsamAna
+s o m p : AsamAna
+s o f s : --
+s o f p : --
+
+ s d m s : AsamAna
+s d m p : AsamAna
+s d f s : --
+s d f p : --
+s o m s : AsamAna
+s o m p : AsamAna
+s o f s : --
+s o f p : --
+
+ s d m s : AsamAna
+s d m p : AsamAna
+s d f s : --
+s d f p : --
+s o m s : AsamAna
+s o m p : AsamAna
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : girijA
+s d f p : girijA
+s o m s : --
+s o m p : --
+s o f s : girijA
+s o f p : girijA
+
+ s d m s : --
+s d m p : --
+s d f s : girijA
+s d f p : girijA
+s o m s : --
+s o m p : --
+s o f s : girijA
+s o f p : girijA
+
+ s d m s : --
+s d m p : --
+s d f s : girijA
+s d f p : girijA
+s o m s : --
+s o m p : --
+s o f s : girijA
+s o f p : girijA
+
+ s d m s : --
+s d m p : --
+s d f s : girijA
+s d f p : girijA
+s o m s : --
+s o m p : --
+s o f s : girijA
+s o f p : girijA
+
+ s d m s : rAjA
+s d m p : rAjA
+s d f s : --
+s d f p : --
+s o m s : rAjA
+s o m p : rAjAoM
+s o f s : --
+s o f p : --
+
+ s d m s : rAjA
+s d m p : rAjA
+s d f s : --
+s d f p : --
+s o m s : rAjA
+s o m p : rAjAoM
+s o f s : --
+s o f p : --
+
+ s d m s : rAjA
+s d m p : rAjA
+s d f s : --
+s d f p : --
+s o m s : rAjA
+s o m p : rAjAoM
+s o f s : --
+s o f p : --
+
+ s d m s : rAjA
+s d m p : rAjA
+s d f s : --
+s d f p : --
+s o m s : rAjA
+s o m p : rAjAoM
+s o f s : --
+s o f p : --
+
+ s d m s : rAjA
+s d m p : rAjA
+s d f s : --
+s d f p : --
+s o m s : rAjA
+s o m p : rAjAoM
+s o f s : --
+s o f p : --
+
+ s d m s : rAjA
+s d m p : rAjA
+s d f s : --
+s d f p : --
+s o m s : rAjA
+s o m p : rAjAoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : haddI
+s d f p : haddiyAz
+s o m s : --
+s o m p : --
+s o f s : haddI
+s o f p : haddiyoM
+
+ s d m s : --
+s d m p : --
+s d f s : haddI
+s d f p : haddiyAz
+s o m s : --
+s o m p : --
+s o f s : haddI
+s o f p : haddiyoM
+
+ s d m s : savAla
+s d m p : savAla
+s d f s : --
+s d f p : --
+s o m s : savAla
+s o m p : savAloM
+s o f s : --
+s o f p : --
+
+ s d m s : savAla
+s d m p : savAla
+s d f s : --
+s d f p : --
+s o m s : savAla
+s o m p : savAloM
+s o f s : --
+s o f p : --
+
+ s d m s : savAla
+s d m p : savAla
+s d f s : --
+s d f p : --
+s o m s : savAla
+s o m p : savAloM
+s o f s : --
+s o f p : --
+
+ s d m s : sIMga
+s d m p : sIMga
+s d f s : --
+s d f p : --
+s o m s : sIMga
+s o m p : sIMgoM
+s o f s : --
+s o f p : --
+
+ s d m s : sIMga
+s d m p : sIMga
+s d f s : --
+s d f p : --
+s o m s : sIMga
+s o m p : sIMgoM
+s o f s : --
+s o f p : --
+
+ s d m s : sIMga
+s d m p : sIMga
+s d f s : --
+s d f p : --
+s o m s : sIMga
+s o m p : sIMgoM
+s o f s : --
+s o f p : --
+
+ s d m s : AxamI
+s d m p : AxamI
+s d f s : --
+s d f p : --
+s o m s : AxamI
+s o m p : AxamiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : AxamI
+s d m p : AxamI
+s d f s : --
+s d f p : --
+s o m s : AxamI
+s o m p : AxamiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : AxamI
+s d m p : AxamI
+s d f s : --
+s d f p : --
+s o m s : AxamI
+s o m p : AxamiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : AxamI
+s d m p : AxamI
+s d f s : --
+s d f p : --
+s o m s : AxamI
+s o m p : AxamiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : AxamI
+s d m p : AxamI
+s d f s : --
+s d f p : --
+s o m s : AxamI
+s o m p : AxamiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : AxamI
+s d m p : AxamI
+s d f s : --
+s d f p : --
+s o m s : AxamI
+s o m p : AxamiyoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : maCalI
+s d f p : maCaliyAz
+s o m s : --
+s o m p : --
+s o f s : maCalI
+s o f p : maCaliyoM
+
+ s d m s : --
+s d m p : --
+s d f s : maCalI
+s d f p : maCaliyAz
+s o m s : --
+s o m p : --
+s o f s : maCalI
+s o f p : maCaliyoM
+
+ s d m s : jaMgala
+s d m p : jaMgala
+s d f s : --
+s d f p : --
+s o m s : jaMgala
+s o m p : jaMgaloM
+s o f s : --
+s o f p : --
+
+ s d m s : jaMgala
+s d m p : jaMgala
+s d f s : --
+s d f p : --
+s o m s : jaMgala
+s o m p : jaMgaloM
+s o f s : --
+s o f p : --
+
+ s d m s : jaMgala
+s d m p : jaMgala
+s d f s : --
+s d f p : --
+s o m s : jaMgala
+s o m p : jaMgaloM
+s o f s : --
+s o f p : --
+
+ s d m s : saMgIwa
+s d m p : saMgIwa
+s d f s : --
+s d f p : --
+s o m s : saMgIwa
+s o m p : saMgIwa
+s o f s : --
+s o f p : --
+
+ s d m s : saMgIwa
+s d m p : saMgIwa
+s d f s : --
+s d f p : --
+s o m s : saMgIwa
+s o m p : saMgIwa
+s o f s : --
+s o f p : --
+
+ s d m s : saMgIwa
+s d m p : saMgIwa
+s d f s : --
+s d f p : --
+s o m s : saMgIwa
+s o m p : saMgIwa
+s o f s : --
+s o f p : --
+
+ s d m s : saMgIwa
+s d m p : saMgIwa
+s d f s : --
+s d f p : --
+s o m s : saMgIwa
+s o m p : saMgIwa
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : rewa
+s d f p : rewa
+s o m s : --
+s o m p : --
+s o f s : rewa
+s o f p : rewa
+
+ s d m s : --
+s d m p : --
+s d f s : rewa
+s d f p : rewa
+s o m s : --
+s o m p : --
+s o f s : rewa
+s o f p : rewa
+
+ s d m s : --
+s d m p : --
+s d f s : rewa
+s d f p : rewa
+s o m s : --
+s o m p : --
+s o f s : rewa
+s o f p : rewa
+
+ s d m s : --
+s d m p : --
+s d f s : rewa
+s d f p : rewa
+s o m s : --
+s o m p : --
+s o f s : rewa
+s o f p : rewa
+
+ s d m s : vijFAna
+s d m p : vijFAna
+s d f s : --
+s d f p : --
+s o m s : vijFAna
+s o m p : vijFAna
+s o f s : --
+s o f p : --
+
+ s d m s : vijFAna
+s d m p : vijFAna
+s d f s : --
+s d f p : --
+s o m s : vijFAna
+s o m p : vijFAna
+s o f s : --
+s o f p : --
+
+ s d m s : vijFAna
+s d m p : vijFAna
+s d f s : --
+s d f p : --
+s o m s : vijFAna
+s o m p : vijFAna
+s o f s : --
+s o f p : --
+
+ s d m s : vijFAna
+s d m p : vijFAna
+s d f s : --
+s d f p : --
+s o m s : vijFAna
+s o m p : vijFAna
+s o f s : --
+s o f p : --
+
+ s d m s : gAzva
+s d m p : gAzva
+s d f s : --
+s d f p : --
+s o m s : gAzva
+s o m p : gAzvoM
+s o f s : --
+s o f p : --
+
+ s d m s : gAzva
+s d m p : gAzva
+s d f s : --
+s d f p : --
+s o m s : gAzva
+s o m p : gAzvoM
+s o f s : --
+s o f p : --
+
+ s d m s : gAzva
+s d m p : gAzva
+s d f s : --
+s d f p : --
+s o m s : gAzva
+s o m p : gAzvoM
+s o f s : --
+s o f p : --
+
+ s d m s : Sahara
+s d m p : Sahara
+s d f s : --
+s d f p : --
+s o m s : Sahara
+s o m p : SaharoM
+s o f s : --
+s o f p : --
+
+ s d m s : Sahara
+s d m p : Sahara
+s d f s : --
+s d f p : --
+s o m s : Sahara
+s o m p : SaharoM
+s o f s : --
+s o f p : --
+
+ s d m s : Sahara
+s d m p : Sahara
+s d f s : --
+s d f p : --
+s o m s : Sahara
+s o m p : SaharoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : topI
+s d f p : topiyAz
+s o m s : --
+s o m p : --
+s o f s : topI
+s o f p : topiyoM
+
+ s d m s : --
+s d m p : --
+s d f s : topI
+s d f p : topiyAz
+s o m s : --
+s o m p : --
+s o f s : topI
+s o f p : topiyoM
+
+ s d m s : xeSa
+s d m p : xeSa
+s d f s : --
+s d f p : --
+s o m s : xeSa
+s o m p : xeSoM
+s o f s : --
+s o f p : --
+
+ s d m s : xeSa
+s d m p : xeSa
+s d f s : --
+s d f p : --
+s o m s : xeSa
+s o m p : xeSoM
+s o f s : --
+s o f p : --
+
+ s d m s : xeSa
+s d m p : xeSa
+s d f s : --
+s d f p : --
+s o m s : xeSa
+s o m p : xeSoM
+s o f s : --
+s o f p : --
+
+ s d m s : --
+s d m p : --
+s d f s : nAka
+s d f p : nAkeM
+s o m s : --
+s o m p : --
+s o f s : nAka
+s o f p : nAkoM
+
+ s d m s : --
+s d m p : --
+s d f s : nAka
+s d f p : nAkeM
+s o m s : --
+s o m p : --
+s o f s : nAka
+s o f p : nAkoM
+

@@ -1,0 +1,778 @@
+s Sg Dir : घास
+s Sg Obl : घास
+s Sg Voc : घास
+s Pl Dir : घासेँ
+s Pl Obl : घासोँ
+s Pl Voc : घासो
+
+
+
+s Sg Dir : बीज
+s Sg Obl : बीज
+s Sg Voc : बीज
+s Pl Dir : बीज
+s Pl Obl : बीजोँ
+s Pl Voc : बीजो
+
+
+
+s Sg Dir : धूल
+s Sg Obl : धूल
+s Sg Voc : धूल
+s Pl Dir : धूल
+s Pl Obl : धूलोँ
+s Pl Voc : धूलो
+
+
+
+s Sg Dir : पंख
+s Sg Obl : पंख
+s Sg Voc : पंख
+s Pl Dir : पंख
+s Pl Obl : पंखोँ
+s Pl Voc : पंखो
+
+
+
+s Sg Dir : बादल
+s Sg Obl : बादल
+s Sg Voc : बादल
+s Pl Dir : बादल
+s Pl Obl : बादलोँ
+s Pl Voc : बादलो
+
+
+
+s Sg Dir : बहन
+s Sg Obl : बहन
+s Sg Voc : बहन
+s Pl Dir : बहनेँ
+s Pl Obl : बहनोँ
+s Pl Voc : बहनो
+
+
+
+s Sg Dir : गर्दन
+s Sg Obl : गर्दन
+s Sg Voc : गर्दन
+s Pl Dir : गर्दनेँ
+s Pl Obl : गर्दनोँ
+s Pl Voc : गर्दनो
+
+
+
+s Sg Dir : दोस्त
+s Sg Obl : दोस्त
+s Sg Voc : दोस्त
+s Pl Dir : दोस्त
+s Pl Obl : दोस्तोँ
+s Pl Voc : दोस्तो
+
+
+
+s Sg Dir : रात
+s Sg Obl : रात
+s Sg Voc : रात
+s Pl Dir : रातें
+s Pl Obl : रातw:ं
+s Pl Voc : रातो
+
+
+
+s Sg Dir : तारा
+s Sg Obl : तारे
+s Sg Voc : तारे
+s Pl Dir : तारे
+s Pl Obl : तारों
+s Pl Voc : तारो
+
+
+
+s Sg Dir : नाम
+s Sg Obl : नाम
+s Sg Voc : नाम
+s Pl Dir : नाम
+s Pl Obl : नामोँ
+s Pl Voc : नामो
+
+
+
+s Sg Dir : धुंध
+s Sg Obl : धुंध
+s Sg Voc : धुंध
+s Pl Dir : धुंधेँ
+s Pl Obl : धुंधोँ
+s Pl Voc : धुंधो
+
+
+
+s Sg Dir : रोटी
+s Sg Obl : रोटी
+s Sg Voc : रोटी
+s Pl Dir : रोटीँ
+s Pl Obl : रोटीयोँ
+s Pl Voc : रोटीयो
+
+
+
+s Sg Dir : सोना
+s Sg Obl : सोने
+s Sg Voc : सोने
+s Pl Dir : सोने
+s Pl Obl : सोनों
+s Pl Voc : सोनो
+
+
+
+s Sg Dir : कुर्सी
+s Sg Obl : कुर्सी
+s Sg Voc : कुर्सी
+s Pl Dir : कुर्सीँ
+s Pl Obl : कुर्सीयोँ
+s Pl Voc : कुर्सीयो
+
+
+
+s Sg Dir : गीत
+s Sg Obl : गीत
+s Sg Voc : गीत
+s Pl Dir : गीत
+s Pl Obl : गीतोँ
+s Pl Voc : गीतो
+
+
+
+s Sg Dir : सूरज
+s Sg Obl : सूरज
+s Sg Voc : सूरज
+s Pl Dir : सूरज
+s Pl Obl : सूरजोँ
+s Pl Voc : सूरजो
+
+
+
+s Sg Dir : घर
+s Sg Obl : घर
+s Sg Voc : घर
+s Pl Dir : घर
+s Pl Obl : घरोँ
+s Pl Voc : घरो
+
+
+
+s Sg Dir : कार
+s Sg Obl : कार
+s Sg Voc : कार
+s Pl Dir : कार
+s Pl Obl : कारोँ
+s Pl Voc : कारो
+
+
+
+s Sg Dir : वजह
+s Sg Obl : वजह
+s Sg Voc : वजह
+s Pl Dir : वजहेँ
+s Pl Obl : वजहोँ
+s Pl Voc : वजहो
+
+
+
+s Sg Dir : छाती
+s Sg Obl : छाती
+s Sg Voc : छाती
+s Pl Dir : छातीँ
+s Pl Obl : छातीयोँ
+s Pl Voc : छातीयो
+
+
+
+s Sg Dir : मक्खन
+s Sg Obl : मक्खन
+s Sg Voc : मक्खन
+s Pl Dir : मक्खन
+s Pl Obl : मक्खनोँ
+s Pl Voc : मक्खनो
+
+
+
+s Sg Dir : गाय
+s Sg Obl : गाय
+s Sg Voc : गाय
+s Pl Dir : गायँ
+s Pl Obl : गाोँ
+s Pl Voc : गाो
+
+
+
+s Sg Dir : राख
+s Sg Obl : राख
+s Sg Voc : राख
+s Pl Dir : राखेँ
+s Pl Obl : राखोँ
+s Pl Voc : राखो
+
+
+
+s Sg Dir : मालिक
+s Sg Obl : मालिक
+s Sg Voc : मालिक
+s Pl Dir : मालिक
+s Pl Obl : मालिकोँ
+s Pl Voc : मालिको
+
+
+
+s Sg Dir : बारिश
+s Sg Obl : बारिश
+s Sg Voc : बारिश
+s Pl Dir : बारिश
+s Pl Obl : बारिशोँ
+s Pl Voc : बारिशो
+
+
+
+s Sg Dir : किताब
+s Sg Obl : किताब
+s Sg Voc : किताब
+s Pl Dir : किताबेँ
+s Pl Obl : किताबोँ
+s Pl Voc : किताबो
+
+
+
+s Sg Dir : दुश्मन
+s Sg Obl : दुश्मन
+s Sg Voc : दुश्मन
+s Pl Dir : दुश्मन
+s Pl Obl : दुश्मनोँ
+s Pl Voc : दुश्मनो
+
+
+
+s Sg Dir : रस्सी
+s Sg Obl : रस्सी
+s Sg Voc : रस्सी
+s Pl Dir : रस्सीँ
+s Pl Obl : रस्सीयोँ
+s Pl Voc : रस्सीयो
+
+
+
+s Sg Dir : पत्थर
+s Sg Obl : पत्थर
+s Sg Voc : पत्थर
+s Pl Dir : पत्थर
+s Pl Obl : पत्थरोँ
+s Pl Voc : पत्थरो
+
+
+
+s Sg Dir : दिन
+s Sg Obl : दिन
+s Sg Voc : दिन
+s Pl Dir : दिन
+s Pl Obl : दिनोँ
+s Pl Voc : दिनो
+
+
+
+s Sg Dir : समंदर
+s Sg Obl : समंदर
+s Sg Voc : समंदर
+s Pl Dir : समंदर
+s Pl Obl : समंदरोँ
+s Pl Voc : समंदरो
+
+
+
+s Sg Dir : नाखून
+s Sg Obl : नाखून
+s Sg Voc : नाखून
+s Pl Dir : नाखून
+s Pl Obl : नाखूनोँ
+s Pl Voc : नाखूनो
+
+
+
+s Sg Dir : पनीर
+s Sg Obl : पनीर
+s Sg Voc : पनीर
+s Pl Dir : पनीरेँ
+s Pl Obl : पनीरोँ
+s Pl Voc : पनीरो
+
+
+
+s Sg Dir : छत
+s Sg Obl : छत
+s Sg Voc : छत
+s Pl Dir : छत
+s Pl Obl : छतोँ
+s Pl Voc : छतो
+
+
+
+s Sg Dir : छत
+s Sg Obl : छत
+s Sg Voc : छत
+s Pl Dir : छतें
+s Pl Obl : छतw:ं
+s Pl Voc : छतो
+
+
+
+s Sg Dir : साल
+s Sg Obl : साल
+s Sg Voc : साल
+s Pl Dir : साल
+s Pl Obl : सालोँ
+s Pl Voc : सालो
+
+
+
+s Sg Dir : रानी
+s Sg Obl : रानी
+s Sg Voc : रानी
+s Pl Dir : रानीँ
+s Pl Obl : रानीयोँ
+s Pl Voc : रानीयो
+
+
+
+s Sg Dir : आग
+s Sg Obl : आग
+s Sg Voc : आग
+s Pl Dir : आगेँ
+s Pl Obl : आगोँ
+s Pl Voc : आगो
+
+
+
+s Sg Dir : पानी
+s Sg Obl : पानी
+s Sg Voc : पानी
+s Pl Dir : पानी
+s Pl Obl : पानीयोँ
+s Pl Voc : पानीयो
+
+
+
+s Sg Dir : फूल
+s Sg Obl : फूल
+s Sg Voc : फूल
+s Pl Dir : फूल
+s Pl Obl : फूलोँ
+s Pl Voc : फूलो
+
+
+
+s Sg Dir : औरत
+s Sg Obl : औरत
+s Sg Voc : औरत
+s Pl Dir : औरतें
+s Pl Obl : औरतw:ं
+s Pl Voc : औरतो
+
+
+
+s Sg Dir : बाल
+s Sg Obl : बाल
+s Sg Voc : बाल
+s Pl Dir : बाल
+s Pl Obl : बालोँ
+s Pl Voc : बालो
+
+
+
+s Sg Dir : उस्ताद
+s Sg Obl : उस्ताद
+s Sg Voc : उस्ताद
+s Pl Dir : उस्ताद
+s Pl Obl : उस्तादोँ
+s Pl Voc : उस्तादो
+
+
+
+s Sg Dir : फल
+s Sg Obl : फल
+s Sg Voc : फल
+s Pl Dir : फल
+s Pl Obl : फलोँ
+s Pl Voc : फलो
+
+
+
+s Sg Dir : जानवर
+s Sg Obl : जानवर
+s Sg Voc : जानवर
+s Pl Dir : जानवर
+s Pl Obl : जानवरोँ
+s Pl Voc : जानवरो
+
+
+
+s Sg Dir : सिर
+s Sg Obl : सिर
+s Sg Voc : सिर
+s Pl Dir : सिर
+s Pl Obl : सिरोँ
+s Pl Voc : सिरो
+
+
+
+s Sg Dir : दुम
+s Sg Obl : दुम
+s Sg Voc : दुम
+s Pl Dir : दुम
+s Pl Obl : दुमोँ
+s Pl Voc : दुमो
+
+
+
+s Sg Dir : झील
+s Sg Obl : झील
+s Sg Voc : झील
+s Pl Dir : झीलेँ
+s Pl Obl : झीलोँ
+s Pl Voc : झीलो
+
+
+
+s Sg Dir : सेब
+s Sg Obl : सेब
+s Sg Voc : सेब
+s Pl Dir : सेब
+s Pl Obl : सेबोँ
+s Pl Voc : सेबो
+
+
+
+s Sg Dir : दिल
+s Sg Obl : दिल
+s Sg Voc : दिल
+s Pl Dir : दिल
+s Pl Obl : दिलोँ
+s Pl Voc : दिलो
+
+
+
+s Sg Dir : प्यार
+s Sg Obl : प्यार
+s Sg Voc : प्यार
+s Pl Dir : प्यार
+s Pl Obl : प्यारोँ
+s Pl Voc : प्यारो
+
+
+
+s Sg Dir : पीठ
+s Sg Obl : पीठ
+s Sg Voc : पीठ
+s Pl Dir : पीठेँ
+s Pl Obl : पीठोँ
+s Pl Voc : पीठो
+
+
+
+s Sg Dir : चिराग
+s Sg Obl : चिराग
+s Sg Voc : चिराग
+s Pl Dir : चिराग
+s Pl Obl : चिरागोँ
+s Pl Voc : चिरागो
+
+
+
+s Sg Dir : तेल
+s Sg Obl : तेल
+s Sg Voc : तेल
+s Pl Dir : तेल
+s Pl Obl : तेलोँ
+s Pl Voc : तेलो
+
+
+
+s Sg Dir : अमन
+s Sg Obl : अमन
+s Sg Voc : अमन
+s Pl Dir : अमन
+s Pl Obl : अमनोँ
+s Pl Voc : अमनो
+
+
+
+s Sg Dir : कोट
+s Sg Obl : कोट
+s Sg Voc : कोट
+s Pl Dir : कोट
+s Pl Obl : कोटोँ
+s Pl Voc : कोटो
+
+
+
+s Sg Dir : नाव
+s Sg Obl : नाव
+s Sg Voc : नाव
+s Pl Dir : नाव
+s Pl Obl : नावोँ
+s Pl Voc : नावो
+
+
+
+s Sg Dir : नमक
+s Sg Obl : नमक
+s Sg Voc : नमक
+s Pl Dir : नमकेँ
+s Pl Obl : नमकोँ
+s Pl Voc : नमको
+
+
+
+s Sg Dir : कान
+s Sg Obl : कान
+s Sg Voc : कान
+s Pl Dir : कान
+s Pl Obl : कानोँ
+s Pl Voc : कानो
+
+
+
+s Sg Dir : पति
+s Sg Obl : पति
+s Sg Voc : पति
+s Pl Dir : पति
+s Pl Obl : पतिोँ
+s Pl Voc : पतिो
+
+
+
+s Sg Dir : पुजारी
+s Sg Obl : पुजारी
+s Sg Voc : पुजारी
+s Pl Dir : पुजारीँ
+s Pl Obl : पुजारीयोँ
+s Pl Voc : पुजारीयो
+
+
+
+s Sg Dir : हाथ
+s Sg Obl : हाथ
+s Sg Voc : हाथ
+s Pl Dir : हाथ
+s Pl Obl : हाथोँ
+s Pl Voc : हाथो
+
+
+
+s Sg Dir : दूकान
+s Sg Obl : दूकान
+s Sg Voc : दूकान
+s Pl Dir : दूकानेँ
+s Pl Obl : दूकानोँ
+s Pl Voc : दूकानो
+
+
+
+s Sg Dir : दूध
+s Sg Obl : दूध
+s Sg Voc : दूध
+s Pl Dir : दूध
+s Pl Obl : दूधोँ
+s Pl Voc : दूधो
+
+
+
+s Sg Dir : शराब
+s Sg Obl : शराब
+s Sg Voc : शराब
+s Pl Dir : शराबेँ
+s Pl Obl : शराबोँ
+s Pl Voc : शराबो
+
+
+
+s Sg Dir : मांस
+s Sg Obl : मांस
+s Sg Voc : मांस
+s Pl Dir : मांस
+s Pl Obl : मांसोँ
+s Pl Voc : मांसो
+
+
+
+s Sg Dir : बैंक
+s Sg Obl : बैंक
+s Sg Voc : बैंक
+s Pl Dir : बैंक
+s Pl Obl : बैंकोँ
+s Pl Voc : बैंको
+
+
+
+s Sg Dir : हवा
+s Sg Obl : हवे
+s Sg Voc : हवे
+s Pl Dir : हवे
+s Pl Obl : हवों
+s Pl Voc : हवो
+
+
+
+s Sg Dir : आसमान
+s Sg Obl : आसमान
+s Sg Voc : आसमान
+s Pl Dir : आसमान
+s Pl Obl : आसमानोँ
+s Pl Voc : आसमानो
+
+
+
+s Sg Dir : गिरिजा
+s Sg Obl : गिरिजे
+s Sg Voc : गिरिजे
+s Pl Dir : गिरिजे
+s Pl Obl : गिरिजों
+s Pl Voc : गिरिजो
+
+
+
+s Sg Dir : राजा
+s Sg Obl : राजे
+s Sg Voc : राजे
+s Pl Dir : राजे
+s Pl Obl : राजों
+s Pl Voc : राजो
+
+
+
+s Sg Dir : हड्डी
+s Sg Obl : हड्डी
+s Sg Voc : हड्डी
+s Pl Dir : हड्डीेँ
+s Pl Obl : हड्डीोँ
+s Pl Voc : हड्डीो
+
+
+
+s Sg Dir : सवाल
+s Sg Obl : सवाल
+s Sg Voc : सवाल
+s Pl Dir : सवाल
+s Pl Obl : सवालोँ
+s Pl Voc : सवालो
+
+
+
+s Sg Dir : सींग
+s Sg Obl : सींग
+s Sg Voc : सींग
+s Pl Dir : सींग
+s Pl Obl : सींगोँ
+s Pl Voc : सींगो
+
+
+
+s Sg Dir : आदमी
+s Sg Obl : आदमी
+s Sg Voc : आदमी
+s Pl Dir : आदमी
+s Pl Obl : आदमीयोँ
+s Pl Voc : आदमीयो
+
+
+
+s Sg Dir : मछली
+s Sg Obl : मछली
+s Sg Voc : मछली
+s Pl Dir : मछलीँ
+s Pl Obl : मछलीयोँ
+s Pl Voc : मछलीयो
+
+
+
+s Sg Dir : जंगल
+s Sg Obl : जंगल
+s Sg Voc : जंगल
+s Pl Dir : जंगल
+s Pl Obl : जंगलोँ
+s Pl Voc : जंगलो
+
+
+
+s Sg Dir : संगीत
+s Sg Obl : संगीत
+s Sg Voc : संगीत
+s Pl Dir : संगीत
+s Pl Obl : संगीतोँ
+s Pl Voc : संगीतो
+
+
+
+s Sg Dir : रेत
+s Sg Obl : रेत
+s Sg Voc : रेत
+s Pl Dir : रेतें
+s Pl Obl : रेतw:ं
+s Pl Voc : रेतो
+
+
+
+s Sg Dir : विज्ञान
+s Sg Obl : विज्ञान
+s Sg Voc : विज्ञान
+s Pl Dir : विज्ञान
+s Pl Obl : विज्ञानोँ
+s Pl Voc : विज्ञानो
+
+
+
+s Sg Dir : गाँव
+s Sg Obl : गाँव
+s Sg Voc : गाँव
+s Pl Dir : गाँव
+s Pl Obl : गाँव
+s Pl Voc : गाँव
+
+
+
+s Sg Dir : शहर
+s Sg Obl : शहर
+s Sg Voc : शहर
+s Pl Dir : शहर
+s Pl Obl : शहरोँ
+s Pl Voc : शहरो
+
+
+
+s Sg Dir : टोपी
+s Sg Obl : टोपी
+s Sg Voc : टोपी
+s Pl Dir : टोपीँ
+s Pl Obl : टोपीयोँ
+s Pl Voc : टोपीयो
+
+
+
+s Sg Dir : देश
+s Sg Obl : देश
+s Sg Voc : देश
+s Pl Dir : देश
+s Pl Obl : देशोँ
+s Pl Voc : देशो
+
+
+
+s Sg Dir : नाक
+s Sg Obl : नाक
+s Sg Voc : नाक
+s Pl Dir : नाक
+s Pl Obl : नाकोँ
+s Pl Voc : नाको
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+all:dur_adjl
+all:dur_adjl_pcl
+all:neg_adjl
+all:neg_adjl_pcl
+all:np_adjl
+all:np_adjl_pcl
+all:pt_adjl_gAni
+all:pt_adjl
+all:pt_adjl_pcl
+Ca:dur_adjl v
+Ca:dur_adjl_pcl v
+Ca:neg_adjl v
+Ca:neg_adjl_pcl v
+Ca:np_adjl v
+Ca:np_adjl_pcl v
+Ca:pt_adjl v
+Ca:pt_adjl_gAni v
+Ca:pt_adjl_pcl v
+Ce:dur_adjl dur_adjl_tam ANY_gnp
+Ce:dur_adjl_pcl dur_adjl_pcl_tam ANY_gnp
+Ce:neg_adjl neg_adjl_tam ANY_gnp
+Ce:neg_adjl_pcl neg_adjl_pcl_tam ANY_gnp
+Ce:np_adjl np_adjl_tam ANY_gnp
+Ce:np_adjl_pcl np_adjl_pcl_tam ANY_gnp
+Ce:pt_adjl pt_adjl_tam ANY_gnp
+Ce:pt_adjl_gAni pt_adjl_gAni_tam ANY_gnp
+Ce:pt_adjl_pcl pt_adjl_pcl_tam ANY_gnp
+Fe:dur_adjl_tam e
+Fe:dur_adjl_pcl_tam e_koVxxi e_xAkA e_lopuna e_lopala e_aMwavaraku e_aMwalo e_aMwasepu e_aMwagA e_aMwa e_anni e_valla e_eMxuku e_kannA e_varaku e_pAtiki e_sariki e_appudu e_muMxu e_lA e_atuvaMti e_atlu
+Fe:neg_adjl_tam ani_co ani
+Fe:neg_adjl_pcl_tam ani_aMwavaraku ani_aMwasepu ani_aMwagA ani_aMwa ani_anni ani_aMxuna ani_atuvaMti ani_aMxuvalla ani_aMxuku ani_app_ki ani_app_nuMci ani_appati ani_appudu ani_atlugA ani_atlu
+Fe:np_adjl_tam wunna_co wunna
+Fe:np_adjl_pcl_tam wunna_koVxxi wunna_xAkA wunna_lopala wunna_aMwavaraku wunna_aMwalo wunna_aMwasepu wunna_aMwagA wunna_aMwa wunna_anni wunna_aMxuna wunna_atuvaMti wunna_aMxuvalana wunna_aMxuku wunna_app_ki wunna_app_nuMci wunna_app_ti wunna_appudu wunna_atlugA wunna_atlu
+Fe:pt_adjl_tam ina_co ina
+Fe:pt_adjl_gAni_tam ina_gAni
+Fe:pt_adjl_pcl_tam ina_koVxxi ina_Aka ina_xAkA ina_lopala ina_aMwavaraku ina_aMwalo ina_aMwasepu ina_aMwagA ina_aMwa ina_anni ina_aMxuna ina_atuvaMti ina_aMxuvalla ina_aMxuku ina_app_ki ina_app_nuMci ina_appati ina_appudu ina_atlugA ina_atlu
+Fe-new:dur_adjl_tam e
+Fe-new:dur_adjl_pcl_tam e_koVxxi e_xAkA e_lopuna e_lopala e_aMwavaraku e_aMwalo e_aMwasepu e_aMwagA e_aMwa e_anni e_valla e_aMxuku e_kannA e_varaku e_pAtiki e_sariki e_appudu e_muMxu e_lA e_atuvaMti e_atlu
+Fe-new:neg_adjl_tam ani_co ani
+Fe-new:neg_adjl_pcl_tam ani_aMwavaraku ani_aMwasepu ani_aMwagA ani_aMwa ani_anni ani_aMxuna ani_atuvaMti ani_aMxuvalla ani_aMxuku ani_app_ki ani_app_nuMci ani_appati ani_appudu ani_atlugA ani_atlu
+Fe-new:np_adjl_tam wunna_co wunna
+Fe-new:np_adjl_pcl_tam wunna_koVxxi wunna_xAkA wunna_lopala wunna_aMwavaraku wunna_aMwalo wunna_aMwasepu wunna_aMwagA wunna_aMwa wunna_anni wunna_aMxuna wunna_atuvaMti wunna_aMxuvalana wunna_aMxuku wunna_app_ki wunna_app_nuMci wunna_app_ti wunna_appudu wunna_atlugA wunna_atlu
+Fe-new:pt_adjl_tam ina_co ina
+Fe-new:pt_adjl_gAni_tam ina_gAni
+Fe-new:pt_adjl_pcl_tam ina_koVxxi ina_Aka ina_xAkA ina_lopala ina_aMwavaraku ina_aMwalo ina_aMwasepu ina_aMwagA ina_aMwa ina_anni ina_aMxuna ina_atuvaMti ina_aMxuvalla ina_aMxuku ina_app_ki ina_app_nuMci ina_appati ina_appudu ina_atlugA ina_atlu
+map_file:case_adj parsarg
+map_file:dur_adjl_tam tam
+map_file:neg_adjl_tam tam
+map_file:np_adjl_tam tam
+map_file:pt_adjl_tam tam
+map_file:pt_adjl_gAni_tam tam
+map_file:dur_adjl_pcl_tam tam
+map_file:neg_adjl_pcl_tam tam
+map_file:np_adjl_pcl_tam tam
+map_file:pt_adjl_pcl_tam tam
+nf_dur_adjl.p:dur_adjl
+nf_dur_adjl_pcl.p:dur_adjl_pcl
+nf_neg_adjl.p:neg_adjl
+nf_neg_adjl_pcl.p:neg_adjl_pcl
+nf_np_adjl.p:np_adjl
+nf_np_adjl_pcl.p:np_adjl_pcl
+nf_pt_adjl_gAni.p:pt_adjl_gAni
+nf_pt_adjl.p:pt_adjl
+nf_pt_adjl_pcl.p:pt_adjl_pcl
+noun_feature_value:n parsarg 0_adj
+noun_feature_value:n parsarg na_adj
+noun_feature_value:n parsarg xi_adj
+noun_feature_value:n parsarg xi_adj
+noun_feature_value:n parsarg vAdu_adj
+noun_feature_value:n parsarg vAru_adj
+noun_feature_value:n parsarg xEna_na_adj
+noun_feature_value:n parsarg xEna_adj
+noun_feature_value:n parsarg vAdEna_adj
+noun_feature_value:n parsarg vArEna_adj
+noun_feature_value:n parsarg xEnaxi_na_adj
+noun_feature_value:n parsarg xEnaxi_adj
+noun_feature_value:n parsarg vAdEnavAdu_adj
+noun_feature_value:n parsarg vArEnavAru_adj
+noun_feature_value:n parsarg ti_adj
+noun_feature_value:n parsarg nixi_na_adj
+noun_feature_value:n parsarg nixi_adj
+noun_feature_value:n parsarg nivAdu_adj
+noun_feature_value:n parsarg nivAru_adj
+noun_feature_value:n parsarg nixEna_na_adj
+noun_feature_value:n parsarg nixEna_adj
+noun_feature_value:n parsarg nivAdEna_adj
+noun_feature_value:n parsarg nivArEna_adj
+noun_feature_value:n parsarg nixEnaxi_na_adj
+noun_feature_value:n parsarg nixEnaxi_adj
+noun_feature_value:n parsarg nivAdEnavAdu_adj
+noun_feature_value:n parsarg nivArEnavAru_adj
+noun_feature_value:n parsarg nEna_adj
+noun_feature_value:n parsarg nEnaxi_na_adj
+noun_feature_value:n parsarg nEnaxi_adj
+noun_feature_value:n parsarg nEnavAdu_adj
+noun_feature_value:n parsarg nEnavAru_adj
+noun_feature_value:n parsarg wanaM_adj
+noun_feature_value:n parsarg gA_adj
+noun_feature_value:n parsarg pAti_adj
+old-Fe:dur_adjl_tam e
+old-Fe:dur_adjl_pcl_tam e_koVxxi e_xAkA e_lopuna e_lopala e_aMwavaraku e_aMwalo e_aMwasepu e_aMwagA e_aMwa e_anni e_valla e_eMxuku e_kannA e_varaku e_pAtiki e_sariki e_appudu e_muMxu e_lA e_atuvaMti e_atlu
+old-Fe:neg_adjl_tam ani_co ani
+old-Fe:neg_adjl_pcl_tam ani_aMwavaraku ani_aMwasepu ani_aMwagA ani_aMwa ani_anni ani_aMxuna ani_atuvaMti ani_aMxuvalla ani_aMxuku ani_app_ki ani_app_nuMci ani_appati ani_appudu ani_atlugA ani_atlu
+old-Fe:np_adjl_tam wunna_co wunna
+old-Fe:np_adjl_pcl_tam wunna_koVxxi wunna_xAkA wunna_lopala wunna_aMwavaraku wunna_aMwalo wunna_aMwasepu wunna_aMwagA wunna_aMwa wunna_anni wunna_aMxuna wunna_atuvaMti wunna_aMxuvalana wunna_aMxuku wunna_app_ki wunna_app_nuMci wunna_app_ti wunna_appudu wunna_atlugA wunna_atlu
+old-Fe:pt_adjl_tam ina_co ina
+old-Fe:pt_adjl_gAni_tam ina_gAni
+old-Fe:pt_adjl_pcl_tam ina_koVxxi ina_Aka ina_xAkA ina_lopala ina_aMwavaraku ina_aMwalo ina_aMwasepu ina_aMwagA ina_aMwa ina_anni ina_aMxuna ina_atuvaMti ina_aMxuvalla ina_aMxuku ina_app_ki ina_app_nuMci ina_appati ina_appudu ina_atlugA ina_atlu
+patch-paramesh.txt:07082012	nf_pt_adjl_pcpl.p 		introduced new forms with the inflection of vb_inawaruvAwa line no. 20th etc.

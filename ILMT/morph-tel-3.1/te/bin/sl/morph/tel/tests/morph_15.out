@@ -1,0 +1,19 @@
+1	goVppa	unk	<fs af='goVppa,adj,,,,,0,0_adj'>
+2	paryAtaka	unk	<fs af='paryAtaka,adj,,,,,0,0_adj'>|<fs af='paryAtakudu,n,,sg,,o,ti,ti'>
+3	keMxraMgA	unk	<fs af='keMxraM,n,,sg,,,gA,gA'>
+4	peru	unk	<fs af='peru,n,,sg,,d,0,0'>|<fs af='peru,n,,sg,,o,ti,ti'>
+5	saMpAxiMcina	unk	<fs af='saMpAxiMcu,v,any,any,any,,ina,ina'>
+6	I	unk	<fs af='I,avy,,,,,,'>|<fs af='I,avy,,,,,,'>
+7	gret	unk	<fs af='gret,n,,sg,,d,0,0'>|<fs af='gret,n,,sg,,o,ti,ti'>
+8	bAriyar	unk	<fs af='bAriyar,n,,sg,,d,0,0'>|<fs af='bAriyar,n,,sg,,o,ti,ti'>
+9	rIP	unk	<fs af='rIP,n,,sg,,d,0,0'>|<fs af='rIP,n,,sg,,o,ti,ti'>
+10	nu	unk	<fs af='nu,avy,,,,,0,0_avy'>
+11	cUseMxuku	unk	<fs af='cUdu,v,any,any,any,,e_eMxuku,e_eMxuku'>
+12	prawiyetA	unk	<fs af='prawiyetA,n,,sg,,d,0,0'>|<fs af='prawiyetA,n,,sg,,o,ti,ti'>
+13	xAxApu	unk	<fs af='xAxApu,n,,sg,,d,0,0'>|<fs af='xAxApu,n,,sg,,o,ti,ti'>
+14	20	unk	<fs af='20,num,,,,,,'>
+15	lakRala	unk	<fs af='lakRa,n,,pl,,o,ti,ti'>
+16	maMxi	unk	<fs af='maMxi,n,,pl,,d,0,0'>|<fs af='maMxi,n,,pl,,,vu,vu'>|<fs af='maMxi,n,,pl,,o,ti,ti'>|<fs af='manu,v,fn,sg,3,,A,A'>
+17	paryAtakulu	unk	<fs af='paryAtakudu,n,,pl,,d,0,0'>|<fs af='paryAtakudu,n,,pl,,,vu,vu'>|<fs af='paryAtaka,adj,,,,,vAru,vAru_adj'>
+18	saMxarSiswuMtAru	unk	<fs af='saMxarSiMcu,v,fm,pl,3,,wU_uMdu_wA,wU_uMdu_wA'>
+19	.	unk	<fs af='&dot;,punc,,,,,,'>

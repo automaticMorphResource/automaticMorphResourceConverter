@@ -1,0 +1,764 @@
+s Sg Dir : GAsa
+s Sg Obl : GAsa
+s Sg Voc : GAsa
+s Pl Dir : GAsez
+s Pl Obl : GAsoz
+s Pl Voc : GAso
+
+
+
+s Sg Dir : bIja
+s Sg Obl : bIja
+s Sg Voc : bIja
+s Pl Dir : bIja
+s Pl Obl : bIjoz
+s Pl Voc : bIjo
+
+
+
+s Sg Dir : XUla
+s Sg Obl : XUla
+s Sg Voc : XUla
+s Pl Dir : XUla
+s Pl Obl : XUloz
+s Pl Voc : XUlo
+
+
+
+s Sg Dir : paMKa
+s Sg Obl : paMKa
+s Sg Voc : paMKa
+s Pl Dir : paMKa
+s Pl Obl : paMKoz
+s Pl Voc : paMKo
+
+
+
+s Sg Dir : bAxala
+s Sg Obl : bAxala
+s Sg Voc : bAxala
+s Pl Dir : bAxala
+s Pl Obl : bAxaloz
+s Pl Voc : bAxalo
+
+
+
+s Sg Dir : bahana
+s Sg Obl : bahana
+s Sg Voc : bahana
+s Pl Dir : bahanez
+s Pl Obl : bahanoz
+s Pl Voc : bahano
+
+
+
+s Sg Dir : garxana
+s Sg Obl : garxana
+s Sg Voc : garxana
+s Pl Dir : garxanez
+s Pl Obl : garxanoz
+s Pl Voc : garxano
+
+
+
+s Sg Dir : xoswa
+s Sg Obl : xoswa
+s Sg Voc : xoswa
+s Pl Dir : xoswa
+s Pl Obl : xoswoz
+s Pl Voc : xoswo
+
+
+
+s Sg Dir : rAwa
+s Sg Obl : rAwa
+s Sg Voc : rAwa
+s Pl Dir : rAweM
+s Pl Obl : rAwaw:M
+s Pl Voc : rAwo
+
+
+
+s Sg Dir : wArA
+s Sg Obl : wAre
+s Sg Voc : wAre
+s Pl Dir : wAre
+s Pl Obl : wAroM
+s Pl Voc : wAro
+
+
+
+s Sg Dir : nAma
+s Sg Obl : nAma
+s Sg Voc : nAma
+s Pl Dir : nAma
+s Pl Obl : nAmoz
+s Pl Voc : nAmo
+
+
+
+s Sg Dir : XuMXa
+s Sg Obl : XuMXa
+s Sg Voc : XuMXa
+s Pl Dir : XuMXez
+s Pl Obl : XuMXoz
+s Pl Voc : XuMXo
+
+
+
+s Sg Dir : rotI
+s Sg Obl : rotI
+s Sg Voc : rotI
+s Pl Dir : rotIz
+s Pl Obl : rotIyoz
+s Pl Voc : rotIyo
+
+
+
+s Sg Dir : sonA
+s Sg Obl : sone
+s Sg Voc : sone
+s Pl Dir : sone
+s Pl Obl : sonoM
+s Pl Voc : sono
+
+
+
+s Sg Dir : kursI
+s Sg Obl : kursI
+s Sg Voc : kursI
+s Pl Dir : kursIz
+s Pl Obl : kursIyoz
+s Pl Voc : kursIyo
+
+
+
+s Sg Dir : gIwa
+s Sg Obl : gIwa
+s Sg Voc : gIwa
+s Pl Dir : gIwa
+s Pl Obl : gIwoz
+s Pl Voc : gIwo
+
+
+
+s Sg Dir : sUraja
+s Sg Obl : sUraja
+s Sg Voc : sUraja
+s Pl Dir : sUraja
+s Pl Obl : sUrajoz
+s Pl Voc : sUrajo
+
+
+
+s Sg Dir : Gara
+s Sg Obl : Gara
+s Sg Voc : Gara
+s Pl Dir : Gara
+s Pl Obl : Garoz
+s Pl Voc : Garo
+
+
+
+s Sg Dir : kAra
+s Sg Obl : kAra
+s Sg Voc : kAra
+s Pl Dir : kAra
+s Pl Obl : kAroz
+s Pl Voc : kAro
+
+
+
+s Sg Dir : vajaha
+s Sg Obl : vajaha
+s Sg Voc : vajaha
+s Pl Dir : vajahez
+s Pl Obl : vajahoz
+s Pl Voc : vajaho
+
+
+
+s Sg Dir : CAwI
+s Sg Obl : CAwI
+s Sg Voc : CAwI
+s Pl Dir : CAwIz
+s Pl Obl : CAwIyoz
+s Pl Voc : CAwIyo
+
+
+
+s Sg Dir : makKana
+s Sg Obl : makKana
+s Sg Voc : makKana
+s Pl Dir : makKana
+s Pl Obl : makKanoz
+s Pl Voc : makKano
+
+
+
+s Sg Dir : gAya
+s Sg Obl : gAya
+s Sg Voc : gAya
+s Pl Dir : gAyaz
+s Pl Obl : gAoz
+s Pl Voc : gAo
+
+
+
+s Sg Dir : rAKa
+s Sg Obl : rAKa
+s Sg Voc : rAKa
+s Pl Dir : rAKez
+s Pl Obl : rAKoz
+s Pl Voc : rAKo
+
+
+
+s Sg Dir : mAlika
+s Sg Obl : mAlika
+s Sg Voc : mAlika
+s Pl Dir : mAlika
+s Pl Obl : mAlikoz
+s Pl Voc : mAliko
+
+
+
+s Sg Dir : bAriSa
+s Sg Obl : bAriSa
+s Sg Voc : bAriSa
+s Pl Dir : bAriSa
+s Pl Obl : bAriSoz
+s Pl Voc : bAriSo
+
+
+
+s Sg Dir : kiwAba
+s Sg Obl : kiwAba
+s Sg Voc : kiwAba
+s Pl Dir : kiwAbez
+s Pl Obl : kiwAboz
+s Pl Voc : kiwAbo
+
+
+
+s Sg Dir : xuSmana
+s Sg Obl : xuSmana
+s Sg Voc : xuSmana
+s Pl Dir : xuSmana
+s Pl Obl : xuSmanoz
+s Pl Voc : xuSmano
+
+
+
+s Sg Dir : rassI
+s Sg Obl : rassI
+s Sg Voc : rassI
+s Pl Dir : rassIz
+s Pl Obl : rassIyoz
+s Pl Voc : rassIyo
+
+
+
+s Sg Dir : pawWara
+s Sg Obl : pawWara
+s Sg Voc : pawWara
+s Pl Dir : pawWara
+s Pl Obl : pawWaroz
+s Pl Voc : pawWaro
+
+
+
+s Sg Dir : xina
+s Sg Obl : xina
+s Sg Voc : xina
+s Pl Dir : xina
+s Pl Obl : xinoz
+s Pl Voc : xino
+
+
+
+s Sg Dir : samaMxara
+s Sg Obl : samaMxara
+s Sg Voc : samaMxara
+s Pl Dir : samaMxara
+s Pl Obl : samaMxaroz
+s Pl Voc : samaMxaro
+
+
+
+s Sg Dir : nAKUna
+s Sg Obl : nAKUna
+s Sg Voc : nAKUna
+s Pl Dir : nAKUna
+s Pl Obl : nAKUnoz
+s Pl Voc : nAKUno
+
+
+
+s Sg Dir : panIra
+s Sg Obl : panIra
+s Sg Voc : panIra
+s Pl Dir : panIrez
+s Pl Obl : panIroz
+s Pl Voc : panIro
+
+
+
+s Sg Dir : Cawa
+s Sg Obl : Cawa
+s Sg Voc : Cawa
+s Pl Dir : Cawa
+s Pl Obl : Cawoz
+s Pl Voc : Cawo
+
+
+
+s Sg Dir : sAla
+s Sg Obl : sAla
+s Sg Voc : sAla
+s Pl Dir : sAla
+s Pl Obl : sAloz
+s Pl Voc : sAlo
+
+
+
+s Sg Dir : rAnI
+s Sg Obl : rAnI
+s Sg Voc : rAnI
+s Pl Dir : rAnIz
+s Pl Obl : rAnIyoz
+s Pl Voc : rAnIyo
+
+
+
+s Sg Dir : Aga
+s Sg Obl : Aga
+s Sg Voc : Aga
+s Pl Dir : Agez
+s Pl Obl : Agoz
+s Pl Voc : Ago
+
+
+
+s Sg Dir : pAnI
+s Sg Obl : pAnI
+s Sg Voc : pAnI
+s Pl Dir : pAnI
+s Pl Obl : pAnIyoz
+s Pl Voc : pAnIyo
+
+
+
+s Sg Dir : PUla
+s Sg Obl : PUla
+s Sg Voc : PUla
+s Pl Dir : PUla
+s Pl Obl : PUloz
+s Pl Voc : PUlo
+
+
+
+s Sg Dir : Orawa
+s Sg Obl : Orawa
+s Sg Voc : Orawa
+s Pl Dir : OraweM
+s Pl Obl : OraweM
+s Pl Voc : Orawo
+
+
+
+s Sg Dir : bAla
+s Sg Obl : bAla
+s Sg Voc : bAla
+s Pl Dir : bAla
+s Pl Obl : bAloz
+s Pl Voc : bAlo
+
+
+
+s Sg Dir : uswAxa
+s Sg Obl : uswAxa
+s Sg Voc : uswAxa
+s Pl Dir : uswAxa
+s Pl Obl : uswAxoz
+s Pl Voc : uswAxo
+
+
+
+s Sg Dir : Pala
+s Sg Obl : Pala
+s Sg Voc : Pala
+s Pl Dir : Pala
+s Pl Obl : Paloz
+s Pl Voc : Palo
+
+
+
+s Sg Dir : jAnavara
+s Sg Obl : jAnavara
+s Sg Voc : jAnavara
+s Pl Dir : jAnavara
+s Pl Obl : jAnavaroz
+s Pl Voc : jAnavaro
+
+
+
+s Sg Dir : sira
+s Sg Obl : sira
+s Sg Voc : sira
+s Pl Dir : sira
+s Pl Obl : siroz
+s Pl Voc : siro
+
+
+
+s Sg Dir : xuma
+s Sg Obl : xuma
+s Sg Voc : xuma
+s Pl Dir : xuma
+s Pl Obl : xumoz
+s Pl Voc : xumo
+
+
+
+s Sg Dir : JIla
+s Sg Obl : JIla
+s Sg Voc : JIla
+s Pl Dir : JIlez
+s Pl Obl : JIloz
+s Pl Voc : JIlo
+
+
+
+s Sg Dir : seba
+s Sg Obl : seba
+s Sg Voc : seba
+s Pl Dir : seba
+s Pl Obl : seboz
+s Pl Voc : sebo
+
+
+
+s Sg Dir : xila
+s Sg Obl : xila
+s Sg Voc : xila
+s Pl Dir : xila
+s Pl Obl : xiloz
+s Pl Voc : xilo
+
+
+
+s Sg Dir : pyAra
+s Sg Obl : pyAra
+s Sg Voc : pyAra
+s Pl Dir : pyAra
+s Pl Obl : pyAroz
+s Pl Voc : pyAro
+
+
+
+s Sg Dir : pITa
+s Sg Obl : pITa
+s Sg Voc : pITa
+s Pl Dir : pITez
+s Pl Obl : pIToz
+s Pl Voc : pITo
+
+
+
+s Sg Dir : cirAga
+s Sg Obl : cirAga
+s Sg Voc : cirAga
+s Pl Dir : cirAga
+s Pl Obl : cirAgoz
+s Pl Voc : cirAgo
+
+
+
+s Sg Dir : wela
+s Sg Obl : wela
+s Sg Voc : wela
+s Pl Dir : wela
+s Pl Obl : weloz
+s Pl Voc : welo
+
+
+
+s Sg Dir : amana
+s Sg Obl : amana
+s Sg Voc : amana
+s Pl Dir : amana
+s Pl Obl : amanoz
+s Pl Voc : amano
+
+
+
+s Sg Dir : kota
+s Sg Obl : kota
+s Sg Voc : kota
+s Pl Dir : kota
+s Pl Obl : kotoz
+s Pl Voc : koto
+
+
+
+s Sg Dir : nAva
+s Sg Obl : nAva
+s Sg Voc : nAva
+s Pl Dir : nAva
+s Pl Obl : nAvoz
+s Pl Voc : nAvo
+
+
+
+s Sg Dir : namaka
+s Sg Obl : namaka
+s Sg Voc : namaka
+s Pl Dir : namakez
+s Pl Obl : namakoz
+s Pl Voc : namako
+
+
+
+s Sg Dir : kAna
+s Sg Obl : kAna
+s Sg Voc : kAna
+s Pl Dir : kAna
+s Pl Obl : kAnoz
+s Pl Voc : kAno
+
+
+
+s Sg Dir : pawi
+s Sg Obl : pawi
+s Sg Voc : pawi
+s Pl Dir : pawi
+s Pl Obl : pawioz
+s Pl Voc : pawio
+
+
+
+s Sg Dir : pujArI
+s Sg Obl : pujArI
+s Sg Voc : pujArI
+s Pl Dir : pujArIz
+s Pl Obl : pujArIyoz
+s Pl Voc : pujArIyo
+
+
+
+s Sg Dir : hAWa
+s Sg Obl : hAWa
+s Sg Voc : hAWa
+s Pl Dir : hAWa
+s Pl Obl : hAWoz
+s Pl Voc : hAWo
+
+
+
+s Sg Dir : xUkAna
+s Sg Obl : xUkAna
+s Sg Voc : xUkAna
+s Pl Dir : xUkAnez
+s Pl Obl : xUkAnoz
+s Pl Voc : xUkAno
+
+
+
+s Sg Dir : xUXa
+s Sg Obl : xUXa
+s Sg Voc : xUXa
+s Pl Dir : xUXa
+s Pl Obl : xUXoz
+s Pl Voc : xUXo
+
+
+
+s Sg Dir : SarAba
+s Sg Obl : SarAba
+s Sg Voc : SarAba
+s Pl Dir : SarAbez
+s Pl Obl : SarAboz
+s Pl Voc : SarAbo
+
+
+
+s Sg Dir : mAMsa
+s Sg Obl : mAMsa
+s Sg Voc : mAMsa
+s Pl Dir : mAMsa
+s Pl Obl : mAMsoz
+s Pl Voc : mAMso
+
+
+
+s Sg Dir : bEMka
+s Sg Obl : bEMka
+s Sg Voc : bEMka
+s Pl Dir : bEMka
+s Pl Obl : bEMkoz
+s Pl Voc : bEMko
+
+
+
+s Sg Dir : havA
+s Sg Obl : have
+s Sg Voc : have
+s Pl Dir : have
+s Pl Obl : havoM
+s Pl Voc : havo
+
+
+
+s Sg Dir : AsamAna
+s Sg Obl : AsamAna
+s Sg Voc : AsamAna
+s Pl Dir : AsamAna
+s Pl Obl : AsamAnoz
+s Pl Voc : AsamAno
+
+
+
+s Sg Dir : girijA
+s Sg Obl : girije
+s Sg Voc : girije
+s Pl Dir : girije
+s Pl Obl : girijoM
+s Pl Voc : girijo
+
+
+
+s Sg Dir : rAjA
+s Sg Obl : rAje
+s Sg Voc : rAje
+s Pl Dir : rAje
+s Pl Obl : rAjoM
+s Pl Voc : rAjo
+
+
+
+s Sg Dir : haddI
+s Sg Obl : haddI
+s Sg Voc : haddI
+s Pl Dir : haddIez
+s Pl Obl : haddIoz
+s Pl Voc : haddIo
+
+
+
+s Sg Dir : savAla
+s Sg Obl : savAla
+s Sg Voc : savAla
+s Pl Dir : savAla
+s Pl Obl : savAloz
+s Pl Voc : savAlo
+
+
+
+s Sg Dir : sIMga
+s Sg Obl : sIMga
+s Sg Voc : sIMga
+s Pl Dir : sIMga
+s Pl Obl : sIMgoz
+s Pl Voc : sIMgo
+
+
+
+s Sg Dir : AxamI
+s Sg Obl : AxamI
+s Sg Voc : AxamI
+s Pl Dir : AxamI
+s Pl Obl : AxamIyoz
+s Pl Voc : AxamIyo
+
+
+
+s Sg Dir : maCalI
+s Sg Obl : maCalI
+s Sg Voc : maCalI
+s Pl Dir : maCalIz
+s Pl Obl : maCalIyoz
+s Pl Voc : maCalIyo
+
+
+
+s Sg Dir : jaMgala
+s Sg Obl : jaMgala
+s Sg Voc : jaMgala
+s Pl Dir : jaMgala
+s Pl Obl : jaMgaloz
+s Pl Voc : jaMgalo
+
+
+
+s Sg Dir : saMgIwa
+s Sg Obl : saMgIwa
+s Sg Voc : saMgIwa
+s Pl Dir : saMgIwa
+s Pl Obl : saMgIwoz
+s Pl Voc : saMgIwo
+
+
+
+s Sg Dir : rewa
+s Sg Obl : rewa
+s Sg Voc : rewa
+s Pl Dir : reweM
+s Pl Obl : reweM
+s Pl Voc : rewo
+
+
+
+s Sg Dir : vijFAna
+s Sg Obl : vijFAna
+s Sg Voc : vijFAna
+s Pl Dir : vijFAna
+s Pl Obl : vijFAnoz
+s Pl Voc : vijFAno
+
+
+
+s Sg Dir : gAzva
+s Sg Obl : gAzva
+s Sg Voc : gAzva
+s Pl Dir : gAzva
+s Pl Obl : gAzva
+s Pl Voc : gAzva
+
+
+
+s Sg Dir : Sahara
+s Sg Obl : Sahara
+s Sg Voc : Sahara
+s Pl Dir : Sahara
+s Pl Obl : Saharoz
+s Pl Voc : Saharo
+
+
+
+s Sg Dir : topI
+s Sg Obl : topI
+s Sg Voc : topI
+s Pl Dir : topIz
+s Pl Obl : topIyoz
+s Pl Voc : topIyo
+
+
+
+s Sg Dir : xeSa
+s Sg Obl : xeSa
+s Sg Voc : xeSa
+s Pl Dir : xeSa
+s Pl Obl : xeSoz
+s Pl Voc : xeSo
+
+
+
+s Sg Dir : nAka
+s Sg Obl : nAka
+s Sg Voc : nAka
+s Pl Dir : nAka
+s Pl Obl : nAkoz
+s Pl Voc : nAko
+
+

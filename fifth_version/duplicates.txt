@@ -1,0 +1,197 @@
+AjamAiSa_n = rAwa_n "AjamAiSa" ;
+AjamAiSa_n = BIda_n "AjamAiSa" ;
+
+APisa_n = Gara_n "APisa" ;
+APisa_n = kroXa_n "APisa" ;
+
+arja_n = Gara_n "arja" ;
+arja_n = BIda_n "arja" ;
+
+arka_n = Gara_n "arka" ;
+arka_n = kroXa_n "arka" ;
+
+bagAvawa_n = rAwa_n "bagAvawa" ;
+bagAvawa_n = kroXa_n "bagAvawa" ;
+
+bAhu_n = Sawru_n "bAhu" ;
+bAhu_n = qwu_n "bAhu" ;
+
+baMxI_n = ladakI_n "baMxI" ;
+baMxI_n = AxamI_n "baMxI" ;
+
+barPa_n = rAwa_n "barPa" ;
+barPa_n = BIda_n "barPa" ;
+
+cAlabAjI_n = ladakI_n "cAlabAjI" ;
+cAlabAjI_n = AjAxI_n "cAlabAjI" ;
+
+cAlAna_n = Gara_n "cAlAna" ;
+cAlAna_n = kroXa_n "cAlAna" ;
+
+CaMxa_n = Gara_n "CaMxa" ;
+CaMxa_n = kroXa_n "CaMxa" ;
+
+cillAhata_n = rAwa_n "cillAhata" ;
+cillAhata_n = kroXa_n "cillAhata" ;
+
+eMbuleMsa_n = kroXa_n "eMbuleMsa" ;
+eMbuleMsa_n = BIda_n "eMbuleMsa" ;
+
+galawaPahamI_n = ladakI_n "galawaPahamI" ;
+galawaPahamI_n = AjAxI_n "galawaPahamI" ;
+
+gama_n = Gara_n "gama" ;
+gama_n = kroXa_n "gama" ;
+
+gaMjA_n = gudiyA_n "gaMjA" ;
+gaMjA_n = gudiyA_n "gaMjA" ;
+
+gaPalawa_n = rAwa_n "gaPalawa" ;
+gaPalawa_n = BIda_n "gaPalawa" ;
+
+gErawa_n = Gara_n "gErawa" ;
+gErawa_n = BIda_n "gErawa" ;
+
+grAsa_n = Gara_n "grAsa" ;
+grAsa_n = BIda_n "grAsa" ;
+
+gudaguda_v = uTa_v "gudaguda" ;
+gudaguda_v = KA_v "gudaguda" ;
+
+hakIkawa_n = rAwa_n "hakIkawa" ;
+hakIkawa_n = BIda_n "hakIkawa" ;
+
+hAra_n = rAwa_n "hAra" ;
+hAra_n = Gara_n "hAra" ;
+
+jA_v = KA_v "jA" ;
+jA_v = jA_v "jA" ;
+
+kabriswAna_n = Gara_n "kabriswAna" ;
+kabriswAna_n = kroXa_n "kabriswAna" ;
+
+KAka_n = rAwa_n "KAka" ;
+KAka_n = kroXa_n "KAka" ;
+
+kalAbAjI_n = ladakI_n "kalAbAjI" ;
+kalAbAjI_n = AjAxI_n "kalAbAjI" ;
+
+kalAI_n = ladakI_n "kalAI" ;
+kalAI_n = AjAxI_n "kalAI" ;
+
+kamAna_n = rAwa_n "kamAna" ;
+kamAna_n = BIda_n "kamAna" ;
+
+Karca_n = Karca_n "Karca" ;
+Karca_n = kroXa_n "Karca" ;
+
+KarIxAra_n = Gara_n "KarIxAra" ;
+KarIxAra_n = kroXa_n "KarIxAra" ;
+
+karja_n = Karca_n "karja" ;
+karja_n = kroXa_n "karja" ;
+
+kaxama_n = Gara_n "kaxama" ;
+kaxama_n = kroXa_n "kaxama" ;
+
+kaxra_n = kroXa_n "kaxra" ;
+kaxra_n = BIda_n "kaxra" ;
+
+KayAla_n = Gara_n "KayAla" ;
+KayAla_n = kroXa_n "KayAla" ;
+
+keMculI_n = ladakI_n "keMculI" ;
+keMculI_n = AjAxI_n "keMculI" ;
+
+KErAwa_n = rAwa_n "KErAwa" ;
+KErAwa_n = BIda_n "KErAwa" ;
+
+KEriyawa_n = rAwa_n "KEriyawa" ;
+KEriyawa_n = BIda_n "KEriyawa" ;
+
+kExa_n = rAwa_n "kExa" ;
+kExa_n = kroXa_n "kExa" ;
+
+kImawI_adj = ajAwI_adj "kImawI" ;
+kImawI_adj = amIra_adj "kImawI" ;
+
+Kixamawa_n = rAwa_n "Kixamawa" ;
+Kixamawa_n = kroXa_n "Kixamawa" ;
+
+KurAPAwa_n = rAwa_n "KurAPAwa" ;
+KurAPAwa_n = kroXa_n "KurAPAwa" ;
+
+KuSabU_n = bAlU_n "KuSabU" ;
+KuSabU_n = bahU_n "KuSabU" ;
+
+KuSAmaxI_adj = ajAwI_adj "KuSAmaxI" ;
+KuSAmaxI_adj = amIra_adj "KuSAmaxI" ;
+
+KuSI_n = ladakI_n "KuSI" ;
+KuSI_n = AjAxI_n "KuSI" ;
+
+kutIra_n = Gara_n "kutIra" ;
+kutIra_n = kroXa_n "kutIra" ;
+
+kuxAla_n = rAwa_n "kuxAla" ;
+kuxAla_n = kroXa_n "kuxAla" ;
+
+laMbAI_n = ladakI_n "laMbAI" ;
+laMbAI_n = AjAxI_n "laMbAI" ;
+
+majahaba_n = Gara_n "majahaba" ;
+majahaba_n = kroXa_n "majahaba" ;
+
+majAka_n = Gara_n "majAka" ;
+majAka_n = kroXa_n "majAka" ;
+
+maKamala_n = rAwa_n "maKamala" ;
+maKamala_n = kroXa_n "maKamala" ;
+
+meja_n = rAwa_n "meja" ;
+meja_n = Gara_n "meja" ;
+
+nakala_n = rAwa_n "nakala" ;
+nakala_n = BIda_n "nakala" ;
+
+OkAwa_n = kroXa_n "OkAwa" ;
+OkAwa_n = BIda_n "OkAwa" ;
+
+PAila_n = rAwa_n "PAila" ;
+PAila_n = kroXa_n "PAila" ;
+
+PakIra_n = Gara_n "PakIra" ;
+PakIra_n = kroXa_n "PakIra" ;
+
+pAnI_n = pAnI_n "pAnI" ;
+pAnI_n = kroXa_n "pAnI" ;
+
+PasAxa_n = Gara_n "PasAxa" ;
+PasAxa_n = kroXa_n "PasAxa" ;
+
+PAtaka_n = Gara_n "PAtaka" ;
+PAtaka_n = kroXa_n "PAtaka" ;
+
+SarAbaKorI_n = ladakI_n "SarAbaKorI" ;
+SarAbaKorI_n = AjAxI_n "SarAbaKorI" ;
+
+SarAPawa_n = rAwa_n "SarAPawa" ;
+SarAPawa_n = BIda_n "SarAPawa" ;
+
+sePa_n = Gara_n "sePa" ;
+sePa_n = kroXa_n "sePa" ;
+
+SOka_n = Gara_n "SOka" ;
+SOka_n = kroXa_n "SOka" ;
+
+vAyu_n = vAyu_n "vAyu" ;
+vAyu_n = katu_n "vAyu" ;
+
+waPawISa_n = rAwa_n "waPawISa" ;
+waPawISa_n = BIda_n "waPawISa" ;
+
+wArA_n = ladakA_n "wArA" ;
+wArA_n = gudiyA_n "wArA" ;
+
+xagAbAjI_n = ladakI_n "xagAbAjI" ;
+xagAbAjI_n = AjAxI_n "xagAbAjI" ;

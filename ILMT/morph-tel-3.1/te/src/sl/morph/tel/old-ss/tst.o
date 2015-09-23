@@ -1,0 +1,119 @@
+RL81 pattern anu Matched
+lft = vaccAdu
+rt = anukuMxAM
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074902920
+rt morph answer 
+RL82 pattern anu Matched
+lft = vaccAdi
+rt = anukuMxAM
+Morph failed for left word vaccAdi
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074902792
+rt morph answer 
+RL83 pattern anu Matched
+lft = vaccAda
+rt = anukuMxAM
+Morph failed for left word vaccAda
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074902664
+rt morph answer 
+RL84 pattern anu Matched
+lft = vaccAdeV0
+rt = anukuMxAM
+Morph failed for left word vaccAdeV0
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074902536
+rt morph answer 
+RL105 pattern danuku Matched
+lft = vaccAdu
+rt = anukuMxAM
+Left cond {[a-zA-Z\?_]+ v  satisfied for rule 105
+Rt cond [a-zA-Z\?_]+ v  not satisfied for rule -1074899848
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL106 pattern anuku Matched
+lft = vaccAdu
+rt = anukuMxAM
+lft cond {[a-zA-Z\?_]+ n  not satisfied for rule -1074899720
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL107 pattern anuku Matched
+lft = vaccAdi
+rt = anukuMxAM
+Morph failed for left word vaccAdi
+lft cond {[a-zA-Z\?_]+ n  not satisfied for rule -1074899592
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL108 pattern anuku Matched
+lft = vaccAda
+rt = anukuMxAM
+Morph failed for left word vaccAda
+lft cond {[a-zA-Z\?_]+ n  not satisfied for rule -1074899464
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL109 pattern anuku Matched
+lft = vaccAdu
+rt = anukuMxAM
+lft cond {[a-zA-Z\?_]+ P  not satisfied for rule -1074899336
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL384 pattern kuMxA Matched
+lft = vaccAdanuku
+rt = _uMxAM
+Morph failed for left word vaccAdanuku
+lft cond {[a-zA-Z\?_]+ n  not satisfied for rule -1074863880
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL439 pattern anuku Matched
+lft = vaccAda
+rt = anukuMxAM
+Morph failed for left word vaccAda
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074856840
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL440 pattern anuku Matched
+lft = vaccAdeV0
+rt = anukuMxAM
+Morph failed for left word vaccAdeV0
+lft cond {[a-zA-Z\?_]+ n  not satisfied for rule -1074856712
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL605 pattern uMxA Matched
+lft = vaccAdanuku
+rt = uMxAM
+Morph failed for left word vaccAdanuku
+lft cond {[a-zA-Z\?_]+ v not satisfied for rule -1074833928
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL606 pattern uMxA Matched
+lft = vaccAdanuki
+rt = uMxAM
+Morph failed for left word vaccAdanuki
+lft cond {[a-zA-Z\?_]+ v not satisfied for rule -1074833800
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL607 pattern uMxA Matched
+lft = vaccAdanuku
+rt = uMxAM
+Morph failed for left word vaccAdanuku
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074833672
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL608 pattern uMxA Matched
+lft = vaccAdanuki
+rt = uMxAM
+Morph failed for left word vaccAdanuki
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074833544
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL609 pattern uMxA Matched
+lft = vaccAdanuka
+rt = uMxAM
+Morph failed for left word vaccAdanuka
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074833416
+rt morph answer anuko{kUrco v *xA* 12_ba }
+RL643 pattern Ada Matched
+lft = vaccAda
+rt = nukuMxAM
+Morph failed for left word vaccAda
+lft cond {[a-zA-Z\?_]+ n not satisfied for rule -1074829064
+rt morph answer anuko{kUrco v *xA* 12_ba }
+vaccAdanukuMxAM
+RL100 pattern lannI Matched
+lft = ABaraNAlu
+rt = annI
+Left cond {[a-zA-Z\?_]+ n satisfied for rule 100
+Rt cond [a-zA-Z\?_]+ n not satisfied for rule -1074900488
+rt morph answer annI{kAgA n *avy_0* }/aMwa{aMwa n bahu *0_V* }
+RL232 pattern lannI Matched
+lft = ABaraNAlu
+rt = annI
+Left cond {[a-zA-Z\?_]+ n satisfied for rule 232
+Rt cond [a-zA-Z\?_]+ n not satisfied for rule -1074883592
+rt morph answer annI{kAgA n *avy_0* }/aMwa{aMwa n bahu *0_V* }
+ABaraNAlannI

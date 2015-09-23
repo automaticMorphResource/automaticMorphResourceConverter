@@ -1,0 +1,2 @@
+To compile : gcc -o sandhi_split.o sandhi_split.c -lpcre
+To run: ./sandhi_split.o

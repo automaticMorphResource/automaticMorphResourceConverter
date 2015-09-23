@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Grammar</title>
+	<script type="text/javascript" src="./pgf_online.js"></script>
+	<script>
+		// Select which server and grammars to use: 
+		var server_options = { 
+		  grammars_url: "./grammars/",
+		  grammar_list: ["myabstract.pgf"] // It's ok to skip this 
+		} 
+		var server = pgf_online(server_options);
+		alert(server.get_grammarlist(function(){alert('asdasd');}));
+	</script>
+</head>
+<body>
+
+</body>
+</html>
